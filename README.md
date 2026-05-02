@@ -1,11 +1,14 @@
 # 鸽鸽工具网 · 说明文档索引
 
-这里是 **[鸽鸽工具网](https://gegegj.com/)** 各篇说明文稿的索引，内容与网站上「博客」里的对应文章一致，方便你在 GitHub 上直接阅读或分享链接。
+这里是 **[鸽鸽工具网](https://gegegj.com/)** 各篇说明文稿的索引：内容与站内「博客」里的对应文章一致，便于在 GitHub 上阅读或分享链接。
 
-公开仓库 **[LIUAWEIO/tools](https://github.com/LIUAWEIO/tools)** 中，说明索引见根目录 [README.md](https://github.com/LIUAWEIO/tools/blob/master/README.md)；各篇文稿的 GitHub 地址为 `https://github.com/LIUAWEIO/tools/blob/master/<文件名>.md`（与下表「GitHub 原文」列一致）。本站源码将同名文件放在本目录 `content/github-seo-articles/` 下便于维护，构建时按文件名同步到博客。
+- **仓库根目录**：公开仓库 **[LIUAWEIO/tools](https://github.com/LIUAWEIO/tools)** 的说明总索引见 [README.md](https://github.com/LIUAWEIO/tools/blob/master/README.md)。各篇说明在仓库里为根目录下的 `NN-主题-gegegj.md`，浏览器打开地址形如 `https://github.com/LIUAWEIO/tools/blob/master/<文件名>.md`，与下表「GitHub 原文」列一致。
+- **本目录（monorepo）**：本站源码把同名 `.md` 放在 `content/github-seo-articles/`，与前端放在同一仓库里，改稿、审阅更方便。
 
-- **想用工具**：请打开 [https://gegegj.com/](https://gegegj.com/)，在首页选择工具即可。  
-- **想读长文说明**：下表「在网站上阅读」进入排版页面；「GitHub 原文」在浏览器中打开仓库里的 `.md`。
+**想用工具** → [https://gegegj.com/](https://gegegj.com/) 首页进入各工具页。  
+**想读说明** → 下表「在网站上阅读」为排版后的博客页；「GitHub 原文」为仓库里的 Markdown。
+
+文稿正文以**功能说明、使用场景、参数含义、常见问题与免责**为主，面向最终用户，不展开站内技术实现细节。
 
 ## 文档一览
 
@@ -27,18 +30,18 @@
 
 更多教程与场景类文章见站内 [博客列表](https://gegegj.com/blog)。
 
-## 文稿里一般写什么
+## 每篇文稿通常包含什么
 
-每篇通常包括：**功能说明**、**可填哪些参数**、**适合什么场景**、**怎么用**、**常见问题**、**数据从哪来**（如适用）以及**免责声明**。具体小节以各篇正文为准。
+**功能说明**、**可填参数**、**适用场景**、**操作步骤**、**常见问题**、**数据来源或计算说明**（如适用）、**免责声明**。具体小节以各篇正文为准。
 
 ---
 
 <details>
-<summary>给维护者（仓库协作者）</summary>
+<summary>维护者：元数据与生成站点数据</summary>
 
-- **标题、摘要、关键词、canonical、更新日期** 写在同目录 [`article-meta.json`](./article-meta.json) 里（按 slug，与 `00-xxx-gegegj.md` 文件名对应），`.md` 里只保留正文，避免在 GitHub 阅读时先看到一大段 YAML。
-- 带序号前缀的 `.md` 会在站点构建时写入 `src/data/seoMarkdownBlogPosts.json`，并出现在 `/blog/<文件名不含扩展名>`。
-- 修改正文或元数据后，在项目根执行 `npm run build:seo-posts`（或完整 `npm run build`），将更新后的 `seoMarkdownBlogPosts.json` 与 `article-meta.json` 一并提交并部署。
-- 若某篇暂时只有 `.md` 且未在 `article-meta.json` 中登记，构建脚本仍会尝试解析文件内的 `---` frontmatter（兼容旧稿）。
+- 页面**标题、摘要、关键词、规范网址（canonical）、更新日期**写在同目录 [`article-meta.json`](./article-meta.json) 中，按 slug 与 `NN-xxx-gegegj.md` 文件名对应；`.md` 内只写正文，避免在 GitHub 上先看到大段 YAML。
+- 带序号前缀的 `.md` 经构建写入 `src/data/seoMarkdownBlogPosts.json`，并对应路由 `/blog/<文件名不含扩展名>`。
+- 修改正文或 `article-meta.json` 后，在仓库根目录执行 `npm run build:seo-posts`（或完整 `npm run build`），将生成结果与元数据一并提交后部署。
+- 若某篇仅有 `.md` 且尚未写入 `article-meta.json`，构建脚本会尝试读取文件开头的 `---` frontmatter 作为兼容。
 
 </details>
