@@ -70,7 +70,7 @@
 ## 与站内其它工具的配合
 
 - 购房月供与现金流：可配合 [房贷计算器](https://gegegj.com/calc/mortgage)。  
-- 更多个税场景：见 [博客](https://gegegj.com/blog) 内相关长尾文章。
+- 更多个税场景：见 [博客](https://gegegj.com/blog) 内相关专题文章。
 
 ## 数据来源与计算依据
 
