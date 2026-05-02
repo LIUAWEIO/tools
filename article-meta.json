@@ -1,0 +1,93 @@
+{
+  "00-site-overview-gegegj": {
+    "title": "鸽鸽工具网｜免费在线房贷·个税·汇率·时间戳·JSON·二维码工具合集（免注册）",
+    "description": "鸽鸽工具网聚合房贷、个税、人民币大写、汇率、日期年龄、Unix时间戳、时区、BMI、单位换算、二维码与JSON等免费在线工具；免安装，移动与桌面浏览器即用，附检索习惯、隐私说明与博客长尾内链。",
+    "keywords": "鸽鸽工具网,gegegj,在线计算器,免费在线工具,房贷计算器,个税计算器,人民币大写,汇率换算,日期计算器,Unix时间戳,时区换算,BMI计算器,单位换算,二维码生成,JSON格式化",
+    "canonical": "https://gegegj.com/",
+    "updated": "2026-05-02"
+  },
+  "01-mortgage-calculator-gegegj": {
+    "title": "在线房贷计算器｜月供、总利息、等额本息与等额本金试算｜鸽鸽工具网",
+    "description": "在线房贷计算器：等额本息/等额本金、商贷与公积金参考利率、万元贷款与年限试算；结合LPR公布机制说明与压力测试示例，月供与总利息以银行合同为准。",
+    "keywords": "房贷计算器,月供计算器,等额本息,等额本金,公积金贷款计算器,商业贷款,LPR试算,按揭月供,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/mortgage",
+    "updated": "2026-05-02"
+  },
+  "02-tax-calculator-gegegj": {
+    "title": "个税计算器在线｜工资薪金、五险一金、专项附加扣除与年终奖估算｜鸽鸽工具网",
+    "description": "个税计算器（估算）：工资薪金与年终奖、五险一金与专项附加扣除、简化税率表与累计预扣差异说明；附专项附加常见项、示例与工资条核对要点，正式申报以税务机关为准。",
+    "keywords": "个税计算器,个人所得税,税后工资,年终奖个税,专项附加扣除,五险一金扣除,累计预扣,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/tax",
+    "updated": "2026-05-02"
+  },
+  "03-rmb-uppercase-gegegj": {
+    "title": "人民币大写转换器在线｜数字金额转中文大写（合同发票）｜鸽鸽工具网",
+    "description": "将阿拉伯数字人民币金额转为中文大写，支持元角分与常见「整」字规则，适用于合同、发票、收据与报销单起草。请在正式出票前由财务复核。",
+    "keywords": "人民币大写,金额大写,数字转大写,发票大写,合同金额大写,中文大写金额,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/rmb",
+    "updated": "2026-05-02"
+  },
+  "04-exchange-rates-gegegj": {
+    "title": "汇率换算器在线｜人民币对美元欧元日元及常用外币｜鸽鸽工具网",
+    "description": "在线汇率换算：支持人民币与美元、欧元、日元、港币等常用货币互算，可选实时公开牌价（服务端代理）或手动录入内部报销汇率。跨境预算与报销估算利器，成交以银行为准。",
+    "keywords": "汇率换算器,人民币汇率,美元兑人民币,日元汇率,港币兑人民币,实时汇率,手动汇率,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/exchange",
+    "updated": "2026-05-02"
+  },
+  "05-date-days-gegegj": {
+    "title": "日期天数计算器在线｜两日期间隔几天、工期与合同周期｜鸽鸽工具网",
+    "description": "输入开始日期与结束日期，计算两日期间隔的日历天数，支持跨年与闰年。适用于工期、请假、租赁周期参考；是否含首尾日请按业务规则自行调整。",
+    "keywords": "日期计算器,天数计算器,两个日期相差几天,日期间隔,工期计算,合同周期,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/date",
+    "updated": "2026-05-02"
+  },
+  "06-age-calculator-gegegj": {
+    "title": "年龄计算器在线｜周岁、虚岁与截止日（基准日）｜鸽鸽工具网",
+    "description": "按出生日期与指定基准日计算周岁与民俗虚岁，适用于报名、资料自检。虚岁为常见民俗算法（地域可能有差异），正式资格以主管机构规则为准。",
+    "keywords": "年龄计算器,周岁计算,虚岁计算,出生日期算年龄,报名年龄,基准日年龄,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/age",
+    "updated": "2026-05-02"
+  },
+  "07-unix-timestamp-gegegj": {
+    "title": "Unix 时间戳在线换算｜10 位秒 13 位毫秒与日期、UTC、ISO 8601｜鸽鸽工具网",
+    "description": "支持 Unix 秒/毫秒与本地可读时间互转，输出本地时间、UTC 字符串与 ISO 8601，适合日志、接口与数据库时间字段核对。位数错误会导致日期严重偏差。",
+    "keywords": "Unix时间戳,时间戳转日期,13位时间戳,毫秒时间戳,UTC,ISO8601,Epoch,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/timestamp",
+    "updated": "2026-05-02"
+  },
+  "08-timezone-converter-gegegj": {
+    "title": "时区换算在线｜北京时间、UTC、纽约伦敦等多地同一时刻对照｜鸽鸽工具网",
+    "description": "输入本地日期时间或 Unix 时间戳，查看同一绝对时刻在亚太、欧美等多 IANA 时区的本地显示时间，适合跨国会议与发布窗口。夏令时以浏览器 Intl 数据为准。",
+    "keywords": "时区换算,世界时钟,北京时间纽约时间,UTC转北京时间,跨时区会议,夏令时,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/timezone",
+    "updated": "2026-05-02"
+  },
+  "09-bmi-calculator-gegegj": {
+    "title": "BMI 计算器在线｜体质指数与身高体重区间参考｜鸽鸽工具网",
+    "description": "根据身高（厘米）与体重（千克）计算 BMI，并给出偏瘦/正常/超重/肥胖的常见区间提示。不构成医疗诊断，运动员、孕妇、儿童请咨询专业人士。",
+    "keywords": "BMI计算器,BMI指数,体质指数,身高体重标准,健康体重,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/bmi",
+    "updated": "2026-05-02"
+  },
+  "10-unit-converter-gegegj": {
+    "title": "单位换算在线｜长度重量温度（米英尺英寸、公斤磅、摄氏华氏）｜鸽鸽工具网",
+    "description": "公制与英制常用单位互转：长度（米、千米、厘米、英尺、英寸）、重量（千克、克、磅、市斤）、温度（摄氏、华氏）。适合学习、海淘与工程读图参考，合同与计量请以标准为准。",
+    "keywords": "单位换算,厘米英寸,英尺米,公斤磅,摄氏华氏,市斤,鸽鸽工具网",
+    "canonical": "https://gegegj.com/calc/unit",
+    "updated": "2026-05-02"
+  },
+  "11-qrcode-generator-gegegj": {
+    "title": "二维码生成器在线｜网址文本、中间 Logo、PNG 本地下载｜鸽鸽工具网",
+    "description": "将网址或文本在浏览器本地绘制成二维码 PNG，支持站点品牌图标或自定义上传图标、尺寸与白边调节。内容过长时码点变密，建议短链；生成内容不上传服务器。",
+    "keywords": "二维码生成器,在线二维码,带logo二维码,网址二维码,WiFi二维码,PNG下载,鸽鸽工具网",
+    "canonical": "https://gegegj.com/tool/qrcode",
+    "updated": "2026-05-02"
+  },
+  "12-json-formatter-gegegj": {
+    "title": "JSON 格式化在线｜美化、压缩、语法校验与中文报错｜鸽鸽工具网",
+    "description": "在浏览器本地对 JSON 进行缩进美化、单行压缩与语法校验，支持可折叠树视图与中文错误提示。适合接口联调与配置核对；含密钥内容请先脱敏。",
+    "keywords": "JSON格式化,JSON美化,JSON压缩,JSON校验,JSON语法错误,在线JSON工具,鸽鸽工具网",
+    "canonical": "https://gegegj.com/tool/json",
+    "updated": "2026-05-02"
+  }
+}
