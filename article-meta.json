@@ -1,8 +1,8 @@
 {
   "00-site-overview-gegegj": {
-    "title": "鸽鸽工具网｜房贷个税JSON等免费在线工具合集",
-    "description": "鸽鸽工具网提供房贷计算器、个税计算器、汇率换算、时间戳转换、JSON格式化、二维码生成等免费在线工具，免安装，适合办公、财务、人力、跨境协作与研发测试。",
-    "keywords": "鸽鸽工具网,gegegj,免费在线工具,在线工具箱,在线计算器,房贷计算器,个税计算器,汇率换算,时间戳转换,JSON格式化,二维码生成,人民币大写,日期计算器,BMI计算器",
+    "title": "鸽鸽工具网｜房贷个税图片压缩JSON等免费在线工具合集",
+    "description": "鸽鸽工具网提供房贷计算器、个税计算器、汇率换算、时间戳转换、图片压缩、二维码条形码生成、JSON格式化等免费在线工具，免安装，适合办公、财务、人力、运营与研发测试。",
+    "keywords": "鸽鸽工具网,gegegj,免费在线工具,在线工具箱,在线计算器,房贷计算器,个税计算器,汇率换算,时间戳转换,图片压缩,二维码生成,条形码生成器,JSON格式化,人民币大写,日期计算器,BMI计算器",
     "canonical": "https://gegegj.com/",
     "updated": "2026-05-08"
   },
@@ -77,10 +77,17 @@
     "updated": "2026-05-08"
   },
   "11-qrcode-generator-gegegj": {
-    "title": "二维码生成器在线｜网址文本WiFi名片转PNG",
-    "description": "二维码生成器教程，说明网址、文本、Wi-Fi、联系方式生成可下载PNG二维码，支持中间Logo、留白和圆角调节，适合海报、名片、门店物料、活动签到和短链接分享。",
-    "keywords": "二维码生成器,在线二维码生成器,免费二维码,带logo二维码,网址二维码,WiFi二维码,文本二维码,联系方式二维码,二维码下载,PNG二维码,活动二维码",
+    "title": "二维码/条形码生成器在线｜批量生成、PNG下载与ZIP导出",
+    "description": "二维码/条形码生成器教程，说明网址文本生成二维码、CODE128/EAN13/UPC等条形码生成、批量输入、PNG下载和ZIP导出，适合海报物料、商品标签、活动签到和仓储编码。",
+    "keywords": "二维码生成器,条形码生成器,在线二维码生成器,批量二维码,批量条形码,CODE128,EAN13,UPC,二维码下载,条形码下载,活动签到码,商品条码",
     "canonical": "https://gegegj.com/tool/qrcode",
+    "updated": "2026-05-08"
+  },
+  "13-image-compress-gegegj": {
+    "title": "图片压缩在线｜JPG PNG WebP 批量压缩与ZIP下载",
+    "description": "图片压缩工具教程，说明JPG、PNG、WebP批量上传、本地压缩、图片瘦身、单张下载与ZIP打包下载，适合网站素材、电商商品图、运营配图和办公附件压缩。",
+    "keywords": "图片压缩,在线图片压缩,批量图片压缩,JPG压缩,PNG压缩,WebP压缩,图片瘦身,图片批量下载,本地图片压缩,ZIP下载",
+    "canonical": "https://gegegj.com/tool/image-compress",
     "updated": "2026-05-08"
   },
   "12-json-formatter-gegegj": {
