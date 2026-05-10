@@ -2,7 +2,7 @@
   "00-site-overview-gegegj": {
     "title": "鸽鸽工具网｜房贷个税图片压缩JSON等免费在线工具合集",
     "description": "鸽鸽工具网提供房贷计算器、个税计算器、汇率换算、时间戳转换、图片压缩、二维码条形码生成、JSON格式化等免费在线工具，免安装，适合办公、财务、人力、运营与研发测试。",
-    "keywords": "鸽鸽工具网,gegegj,免费在线工具,在线工具箱,在线计算器,房贷计算器,个税计算器,汇率换算,时间戳转换,图片压缩,二维码生成,条形码生成器,JSON格式化,人民币大写,日期计算器,BMI计算器",
+    "keywords": "鸽鸽工具网,gegegj,免费在线工具,在线工具箱,在线计算器,房贷计算器,个税计算器,汇率换算,时间戳转换,Excel时间戳,图片压缩,二维码生成,小程序二维码,视频链接二维码,条形码生成器,JSON格式化,墨西哥时区,人民币大写,日期计算器,BMI计算器",
     "canonical": "https://gegegj.com/",
     "updated": "2026-05-08"
   },
@@ -51,14 +51,14 @@
   "07-unix-timestamp-gegegj": {
     "title": "Unix时间戳在线换算｜10位秒13位毫秒转日期",
     "description": "Unix时间戳换算教程，说明10位秒级、13位毫秒级时间戳与本地时间、UTC、ISO 8601互转，适合日志分析、接口字段核对、数据库导出和跨时区协作。",
-    "keywords": "Unix时间戳,时间戳换算,时间戳转日期,13位时间戳,10位时间戳,毫秒时间戳,UTC时间,ISO8601,Epoch时间,秒毫秒转换,当前时间戳",
+    "keywords": "Unix时间戳,时间戳换算,时间戳转日期,13位时间戳,10位时间戳,毫秒时间戳,10位时间戳转时间,时间到时间戳,时间戳是什么,时间戳格式化,Excel日期转时间戳,时间戳换算公式,UTC时间,ISO8601,Epoch,日志时间",
     "canonical": "https://gegegj.com/calc/timestamp",
     "updated": "2026-05-08"
   },
   "08-timezone-converter-gegegj": {
     "title": "时区换算在线｜北京时间UTC纽约伦敦多地对照",
     "description": "时区换算教程，说明北京时间、UTC、纽约、伦敦、东京等多地时间对照，适合跨国会议、海外发布、直播排期、客户支持和夏令时复核。",
-    "keywords": "时区换算,在线时区换算,世界时钟,北京时间纽约时间,UTC转北京时间,北京时间伦敦时间,时差计算,跨时区会议,多时区对照,夏令时",
+    "keywords": "时区换算,在线时区换算,世界时钟,北京时间纽约时间,UTC转北京时间,时差计算,跨时区会议,多时区对照,夏令时,墨西哥时间换算,墨西哥城时差",
     "canonical": "https://gegegj.com/calc/timezone",
     "updated": "2026-05-08"
   },
@@ -79,21 +79,21 @@
   "11-qrcode-generator-gegegj": {
     "title": "二维码/条形码生成器在线｜批量生成、PNG下载与ZIP导出",
     "description": "二维码/条形码生成器教程，说明网址文本生成二维码、CODE128/EAN13/UPC等条形码生成、批量输入、PNG下载和ZIP导出，适合海报物料、商品标签、活动签到和仓储编码。",
-    "keywords": "二维码生成器,条形码生成器,在线二维码生成器,批量二维码,批量条形码,CODE128,EAN13,UPC,二维码下载,条形码下载,活动签到码,商品条码",
+    "keywords": "二维码生成器,条形码生成器,在线二维码生成器,批量二维码,批量条形码,CODE128,EAN13,UPC,小程序二维码,视频链接二维码,条形码在线生成,二维码下载,条形码下载,活动签到码,商品条码",
     "canonical": "https://gegegj.com/tool/qrcode",
     "updated": "2026-05-08"
   },
   "13-image-compress-gegegj": {
     "title": "图片压缩在线｜JPG PNG WebP 批量压缩与ZIP下载",
     "description": "图片压缩工具教程，说明JPG、PNG、WebP批量上传、本地压缩、图片瘦身、单张下载与ZIP打包下载，适合网站素材、电商商品图、运营配图和办公附件压缩。",
-    "keywords": "图片压缩,在线图片压缩,批量图片压缩,JPG压缩,PNG压缩,WebP压缩,图片瘦身,图片批量下载,本地图片压缩,ZIP下载",
+    "keywords": "图片压缩,在线图片压缩,免费在线图片压缩,照片压缩在线,批量图片压缩,JPG压缩,PNG压缩,WebP压缩,图片瘦身,本地图片压缩,ZIP下载",
     "canonical": "https://gegegj.com/tool/image-compress",
     "updated": "2026-05-08"
   },
   "12-json-formatter-gegegj": {
     "title": "JSON格式化在线｜美化压缩语法校验与错误定位",
     "description": "JSON格式化教程，说明JSON美化缩进、压缩成一行、语法校验、错误定位和折叠浏览，适合接口响应、配置片段、Webhook载荷与日志JSON的本地处理。",
-    "keywords": "JSON格式化,在线JSON格式化,JSON美化,JSON压缩,JSON校验,在线JSON工具,JSON语法错误,JSON错误定位,JSON格式错误修复,接口JSON,配置JSON,Webhook JSON",
+    "keywords": "JSON格式化,在线JSON格式化,json文件在线格式化,json缩进格式化,JSON美化,JSON压缩,JSON校验,在线格式化JSON,JSON是什么,VSCode格式化JSON,接口JSON,配置JSON,Webhook JSON,JSON语法错误,JSON错误定位",
     "canonical": "https://gegegj.com/tool/json",
     "updated": "2026-05-08"
   }

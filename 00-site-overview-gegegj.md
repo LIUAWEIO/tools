@@ -59,7 +59,7 @@
 
 ## 推荐检索词与直达入口
 
-如果您是从搜索引擎进入，可按具体需求直接打开对应页面：查「房贷计算器」「100万房贷30年月供」进入 [房贷计算器](https://gegegj.com/calc/mortgage)；查「个税计算器」「税后工资计算器」进入 [个税计算器](https://gegegj.com/calc/tax)；查「图片压缩」「批量图片压缩」进入 [图片压缩](https://gegegj.com/tool/image-compress)；查「条形码生成器」「批量二维码」进入 [二维码/条形码生成](https://gegegj.com/tool/qrcode)；查「时间戳转日期」「JSON格式化」分别进入时间、开发与文本工具。每个工具页都包含独立说明、常见问题和相关教程链接，便于百度、Google、Bing、360、搜狗等搜索引擎理解页面主题。
+如果您是从搜索引擎进入，可按具体需求直接打开对应页面：查「房贷计算器」「100万房贷30年月供」进入 [房贷计算器](https://gegegj.com/calc/mortgage)；查「个税计算器」「税后工资计算器」进入 [个税计算器](https://gegegj.com/calc/tax)；查「图片压缩」「免费在线图片压缩」「照片压缩在线」进入 [图片压缩](https://gegegj.com/tool/image-compress)；查「条形码生成器」「小程序二维码」「视频链接二维码」「批量二维码」进入 [二维码/条形码生成](https://gegegj.com/tool/qrcode)；查「时间戳转日期」「10位时间戳转时间」「Excel时间戳」进入 [Unix 时间戳换算](https://gegegj.com/calc/timestamp)；查「墨西哥时区」「墨西哥城时差」进入 [时区换算](https://gegegj.com/calc/timezone)；查「JSON格式化」「json文件在线格式化」进入 [JSON 格式化](https://gegegj.com/tool/json)。每个工具页都包含独立说明、常见问题和相关教程链接，便于百度、Google、Bing、360、搜狗等搜索引擎理解页面主题。
 
 ## 隐私与数据流（透明度）
 

@@ -41,7 +41,7 @@
 
 ## 推荐检索词与直达入口
 
-常见搜索词包括 **「JSON格式化」「在线JSON格式化」「JSON美化」「JSON压缩」「JSON校验」「JSON语法错误」「JSON错误定位」「JSON格式错误修复」**。需要快速整理接口响应、配置片段或 Webhook 载荷时，可直接打开 [JSON 格式化](https://gegegj.com/tool/json)；包含 Token、私钥或个人隐私的数据请先脱敏。
+常见搜索词包括 **「JSON格式化」「在线JSON格式化」「json文件在线格式化」「json缩进格式化」「JSON美化」「JSON压缩」「JSON校验」「JSON是什么」「VSCode格式化JSON」「JSON语法错误」「JSON错误定位」「JSON格式错误修复」**。需要快速整理接口响应、配置片段或 Webhook 载荷时，可直接打开 [JSON 格式化](https://gegegj.com/tool/json)；包含 Token、私钥或个人隐私的数据请先脱敏。
 
 ## 如何使用
 
