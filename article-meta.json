@@ -1,8 +1,8 @@
 {
   "00-site-overview-gegegj": {
-    "title": "鸽鸽工具网｜房贷个税图片压缩JSON等免费在线工具合集",
-    "description": "鸽鸽工具网提供房贷计算器、个税计算器、汇率换算、时间戳转换、图片压缩、二维码条形码生成、JSON格式化等免费在线工具，免安装，适合办公、财务、人力、运营与研发测试。",
-    "keywords": "鸽鸽工具网,gegegj,免费在线工具,在线工具箱,在线计算器,房贷计算器,个税计算器,汇率换算,时间戳转换,Excel时间戳,图片压缩,二维码生成,小程序二维码,视频链接二维码,条形码生成器,JSON格式化,墨西哥时区,人民币大写,日期计算器,BMI计算器",
+    "title": "鸽鸽工具网｜房贷个税乘法表图片压缩JSON等免费在线工具合集",
+    "description": "鸽鸽工具网提供房贷计算器、个税计算器、汇率换算、时间戳转换、九九乘法表与乘法口诀、图片压缩、二维码条形码生成、JSON格式化等免费在线工具，免安装，适合办公、财务、人力、课辅家庭、运营与研发测试。",
+    "keywords": "鸽鸽工具网,gegegj,免费在线工具,在线工具箱,在线计算器,房贷计算器,个税计算器,汇率换算,时间戳转换,Excel时间戳,九九乘法表,乘法口诀表,小九九,大九九,图片压缩,二维码生成,小程序二维码,视频链接二维码,条形码生成器,JSON格式化,墨西哥时区,人民币大写,日期计算器,BMI计算器",
     "canonical": "https://gegegj.com/",
     "updated": "2026-05-08"
   },
@@ -96,5 +96,13 @@
     "keywords": "JSON格式化,在线JSON格式化,json文件在线格式化,json缩进格式化,JSON美化,JSON压缩,JSON校验,在线格式化JSON,JSON是什么,VSCode格式化JSON,接口JSON,配置JSON,Webhook JSON,JSON语法错误,JSON错误定位",
     "canonical": "https://gegegj.com/tool/json",
     "updated": "2026-05-08"
+  },
+  "14-multiplication-table-gegegj": {
+    "title": "九九乘法表在线教程｜小九九算式、口诀对照与大九九扩展",
+    "description": "九九乘法表与乘法口诀教程，说明算式阶梯表、中文口诀、大九九扩展与复制全文用法，适合小学生背诵、作业核对与家长辅导，浏览器本地展示。",
+    "keywords": "九九乘法表,乘法口诀表,九九乘法口诀,小九九,大九九,乘法表打印,小学乘法口诀,一一得一,背诵乘法表,乘法口诀在线,19×19乘法表,算式表,九九乘法表在线",
+    "canonical": "https://gegegj.com/tool/multiplication-table",
+    "relatedToolPath": "/tool/multiplication-table",
+    "updated": "2026-05-09"
   }
 }

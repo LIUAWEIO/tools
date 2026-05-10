@@ -28,6 +28,7 @@
 | 二维码/条形码生成 | [打开](https://gegegj.com/blog/11-qrcode-generator-gegegj) | [11-qrcode-generator-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/11-qrcode-generator-gegegj.md) |
 | JSON 格式化 | [打开](https://gegegj.com/blog/12-json-formatter-gegegj) | [12-json-formatter-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/12-json-formatter-gegegj.md) |
 | 图片压缩 | [打开](https://gegegj.com/blog/13-image-compress-gegegj) | [13-image-compress-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/13-image-compress-gegegj.md) |
+| 九九乘法表与乘法口诀 | [打开](https://gegegj.com/blog/14-multiplication-table-gegegj) | [14-multiplication-table-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/14-multiplication-table-gegegj.md) |
 
 更多教程与场景类文章见站内 [博客列表](https://gegegj.com/blog)。
 
@@ -40,7 +41,7 @@
 <details>
 <summary>维护者：元数据与生成站点数据</summary>
 
-- 页面**标题、摘要、关键词、规范网址（canonical）、更新日期**写在同目录 [`article-meta.json`](./article-meta.json) 中，按 slug 与 `NN-xxx-gegegj.md` 文件名对应；`.md` 内只写正文，避免在 GitHub 上先看到大段 YAML。
+- 页面**标题、摘要、关键词、规范网址（canonical）、更新日期**写在同目录 [`article-meta.json`](./article-meta.json) 中，按 slug 与 `NN-xxx-gegegj.md` 文件名对应；`.md` 内只写正文，避免在 GitHub 上先看到大段 YAML。若 canonical 指向博文而仍需在工具页展示「使用说明」链接，可另写 **`relatedToolPath`**（如 `/tool/multiplication-table`），构建时优先采用该字段。
 - 带序号前缀的 `.md` 经构建写入 `src/data/seoMarkdownBlogPosts.json`，并对应路由 `/blog/<文件名不含扩展名>`。
 - 修改正文或 `article-meta.json` 后，在仓库根目录执行 `npm run build:seo-posts`（或完整 `npm run build`），将生成结果与元数据一并提交后部署。
 - 若某篇仅有 `.md` 且尚未写入 `article-meta.json`，构建脚本会尝试读取文件开头的 `---` frontmatter 作为兼容。
