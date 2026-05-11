@@ -29,6 +29,8 @@
 | JSON 格式化 | [打开](https://gegegj.com/blog/12-json-formatter-gegegj) | [12-json-formatter-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/12-json-formatter-gegegj.md) |
 | 图片压缩 | [打开](https://gegegj.com/blog/13-image-compress-gegegj) | [13-image-compress-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/13-image-compress-gegegj.md) |
 | 九九乘法表与乘法口诀 | [打开](https://gegegj.com/blog/14-multiplication-table-gegegj) | [14-multiplication-table-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/14-multiplication-table-gegegj.md) |
+| 预产期计算器 | [打开](https://gegegj.com/blog/15-due-date-calculator-gegegj) | [15-due-date-calculator-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/15-due-date-calculator-gegegj.md) |
+| 字数统计 | [打开](https://gegegj.com/blog/16-word-count-tool-gegegj) | [16-word-count-tool-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/16-word-count-tool-gegegj.md) |
 
 更多教程与场景类文章见站内 [博客列表](https://gegegj.com/blog)。
 
