@@ -74,7 +74,7 @@
 
 ## 与站内其它工具的配合
 
-- 活动配置、Webhook 样例等文本可先 [JSON 格式化](https://gegegj.com/tool/json) 再粘贴为单行。  
+- 活动配置、Webhook 样例等文本可先 [JSON 格式化工具](https://gegegj.com/tool/json) 做 json 在线解析与压缩，再粘贴为单行。  
 - 商品图、海报图较大时，可先使用 [图片压缩](https://gegegj.com/tool/image-compress) 降低体积，再搭配二维码或条形码投放。
 
 ## 数据来源与计算依据

@@ -28,7 +28,7 @@
 | 子女学习与课辅 | 乘法口诀表 · 九九乘法表 | [https://gegegj.com/tool/multiplication-table](https://gegegj.com/tool/multiplication-table) |
 | 开发与文本 | 二维码/条形码生成 | [https://gegegj.com/tool/qrcode](https://gegegj.com/tool/qrcode) |
 | 开发与文本 | 图片压缩 | [https://gegegj.com/tool/image-compress](https://gegegj.com/tool/image-compress) |
-| 开发与文本 | JSON 格式化 | [https://gegegj.com/tool/json](https://gegegj.com/tool/json) |
+| 开发与文本 | JSON 格式化工具 | [https://gegegj.com/tool/json](https://gegegj.com/tool/json) |
 | 开发与文本 | 字数统计 | [https://gegegj.com/tool/word-count](https://gegegj.com/tool/word-count) |
 
 ## 支持的「参数」与能力边界（整站级说明）
@@ -47,7 +47,7 @@
 - **九九乘法与口诀**：阶梯形算式表、中文口诀与 1×1～19×19 大九九列举，浏览器本地展示，支持口诀全文复制。
 - **二维码/条形码**：文本或 URL 生成二维码，商品编码、订单号等生成 CODE128、EAN、UPC 等条形码，支持批量导出。
 - **图片压缩**：JPG、PNG、WebP 批量上传，本地压缩后单张下载或打包 ZIP。
-- **JSON**：粘贴后美化、压缩、语法校验、可折叠树视图。
+- **JSON 格式化工具**：json 在线解析，美化、压缩、json validator 校验与 json viewer 折叠查看。
 - **字数统计**：粘贴全文后本地统计总字数、字符分类、行数等（以各页说明为准），不上传正文。
 
 ## 典型使用场景
@@ -56,11 +56,11 @@
 2. **发薪与奖金**：入职、调薪、年终奖发放前估算个税与到手区间（以单位财务与政策为准）。
 3. **合同与报销**：金额转中文大写；跨境金额用实时或内部固定汇率粗算。
 4. **项目与排期**：两日期间隔天数、工期与合同周期参考；按截止日算周岁。
-5. **研发与运维**：日志与接口中的 Unix 时间戳解读；多时区会议时间写法；JSON 片段美化与报错定位。
+5. **研发与运维**：日志与接口中的 Unix 时间戳解读；多时区会议时间写法；json formatter 在线解析、美化与 json validator 报错定位。
 6. **运营与物料**：短链接或文案生成二维码 PNG，商品/订单编码生成条形码，图片素材压缩后再上传。
 7. **课辅与背诵**：九九乘法算式与中文口诀对照、大九九扩展查阅，作业核对与家长抽问。
 8. **孕期备忘**：末次月经推算预产期与孕周，便于与家人沟通大致时间窗口（以产检与医嘱为准）。
-9. **交稿与运营**：在线字数统计核对总字数与中英字符；JSON 整理后再发排期或埋点说明。
+9. **交稿与运营**：在线字数统计核对总字数与中英字符；JSON 格式化工具整理配置后再发排期或埋点说明。
 
 ## 常见说法与查找入口
 
@@ -68,7 +68,7 @@
 
 ## 推荐检索词与直达入口
 
-如果您是从搜索引擎进入，可按具体需求直接打开对应页面：查「房贷计算器」「100万房贷30年月供」进入 [房贷计算器](https://gegegj.com/calc/mortgage)；查「个税计算器」「税后工资计算器」进入 [个税计算器](https://gegegj.com/calc/tax)；查「预产期计算器」「末次月经算预产期」「孕周计算」进入 [预产期计算器](https://gegegj.com/calc/due-date)；查「字数统计」「在线字数统计」「查字数」进入 [字数统计](https://gegegj.com/tool/word-count)；查「九九乘法表」「乘法口诀表」「小九九」「大九九」进入 [乘法口诀表 · 九九乘法表](https://gegegj.com/tool/multiplication-table)；查「图片压缩」「免费在线图片压缩」「照片压缩在线」进入 [图片压缩](https://gegegj.com/tool/image-compress)；查「条形码生成器」「小程序二维码」「视频链接二维码」「批量二维码」进入 [二维码/条形码生成](https://gegegj.com/tool/qrcode)；查「时间戳转日期」「10位时间戳转时间」「Excel时间戳」进入 [Unix 时间戳换算](https://gegegj.com/calc/timestamp)；查「墨西哥时区」「墨西哥城时差」进入 [时区换算](https://gegegj.com/calc/timezone)；查「JSON格式化」「json文件在线格式化」进入 [JSON 格式化](https://gegegj.com/tool/json)。每个工具页都包含独立说明、常见问题和相关教程链接，便于百度、Google、Bing、360、搜狗等搜索引擎理解页面主题。
+如果您是从搜索引擎进入，可按具体需求直接打开对应页面：查「房贷计算器」「100万房贷30年月供」进入 [房贷计算器](https://gegegj.com/calc/mortgage)；查「个税计算器」「税后工资计算器」进入 [个税计算器](https://gegegj.com/calc/tax)；查「预产期计算器」「末次月经算预产期」「孕周计算」进入 [预产期计算器](https://gegegj.com/calc/due-date)；查「字数统计」「在线字数统计」「查字数」进入 [字数统计](https://gegegj.com/tool/word-count)；查「九九乘法表」「乘法口诀表」「小九九」「大九九」进入 [乘法口诀表 · 九九乘法表](https://gegegj.com/tool/multiplication-table)；查「图片压缩」「免费在线图片压缩」「照片压缩在线」进入 [图片压缩](https://gegegj.com/tool/image-compress)；查「条形码生成器」「小程序二维码」「视频链接二维码」「批量二维码」进入 [二维码/条形码生成](https://gegegj.com/tool/qrcode)；查「时间戳转日期」「10位时间戳转时间」「Excel时间戳」进入 [Unix 时间戳换算](https://gegegj.com/calc/timestamp)；查「墨西哥时区」「墨西哥城时差」进入 [时区换算](https://gegegj.com/calc/timezone)；查「json formatter」「json在线解析」「json格式化工具」「json validator」进入 [JSON 格式化工具](https://gegegj.com/tool/json)。每个工具页都包含独立说明、常见问题和相关教程链接，便于百度、Google、Bing、360、搜狗等搜索引擎理解页面主题。
 
 ## 隐私与数据流（透明度）
 
@@ -110,7 +110,7 @@
 
 本站所有工具与展示内容**仅供参考**，不构成财务、税务、法律、医疗、投资或任何专业建议。房贷、个税、汇率、BMI、预产期推算等结果可能与银行、税务机关、医疗机构或临床评估存在差异。**请勿将本站输出作为合同、申报、诊断或付款的唯一依据。** 使用前请阅读各工具页内说明；继续使用即表示理解并接受上述限制。
 
-#鸽鸽工具网# #在线工具# #免费计算器# #房贷计算器# #个税计算器# #预产期计算器# #字数统计# #汇率换算# #人民币大写# #日期计算器# #Unix时间戳# #九九乘法表# #乘法口诀# #图片压缩# #条形码生成器# #JSON格式化# #二维码生成#
+#鸽鸽工具网# #在线工具# #免费计算器# #房贷计算器# #个税计算器# #预产期计算器# #字数统计# #汇率换算# #人民币大写# #日期计算器# #Unix时间戳# #九九乘法表# #乘法口诀# #图片压缩# #条形码生成器# #jsonformatter# #json格式化工具# #二维码生成#
 
 ---
 

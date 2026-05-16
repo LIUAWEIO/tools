@@ -1,8 +1,8 @@
 {
   "00-site-overview-gegegj": {
     "title": "鸽鸽工具网｜房贷预产期字数乘法表图片压缩JSON等免费在线工具合集",
-    "description": "鸽鸽工具网提供房贷计算器、个税计算器、预产期与孕周推算、在线字数统计、汇率换算、时间戳转换、九九乘法表与乘法口诀、图片压缩、二维码条形码生成、JSON格式化等免费在线工具，免安装，适合办公、财务、人力、孕期备忘、课辅家庭、运营与研发测试。",
-    "keywords": "鸽鸽工具网,gegegj,免费在线工具,在线工具箱,在线计算器,房贷计算器,个税计算器,预产期计算器,末次月经算预产期,孕周计算,字数统计,在线字数统计,查字数,汇率换算,时间戳转换,Excel时间戳,九九乘法表,乘法口诀表,小九九,大九九,图片压缩,二维码生成,小程序二维码,视频链接二维码,条形码生成器,JSON格式化,墨西哥时区,人民币大写,日期计算器,BMI计算器",
+    "description": "鸽鸽工具网提供房贷计算器、个税计算器、预产期与孕周推算、在线字数统计、汇率换算、时间戳转换、九九乘法表与乘法口诀、图片压缩、二维码条形码生成、JSON 格式化工具（json formatter）等免费在线工具，免安装，适合办公、财务、人力、孕期备忘、课辅家庭、运营与研发测试。",
+    "keywords": "鸽鸽工具网,gegegj,免费在线工具,在线工具箱,在线计算器,房贷计算器,个税计算器,预产期计算器,末次月经算预产期,孕周计算,字数统计,在线字数统计,查字数,汇率换算,时间戳转换,Excel时间戳,九九乘法表,乘法口诀表,小九九,大九九,图片压缩,二维码生成,小程序二维码,视频链接二维码,条形码生成器,json formatter,json格式化工具,墨西哥时区,人民币大写,日期计算器,BMI计算器",
     "canonical": "https://gegegj.com/",
     "updated": "2026-05-09"
   },
@@ -91,11 +91,11 @@
     "updated": "2026-05-08"
   },
   "12-json-formatter-gegegj": {
-    "title": "JSON格式化在线｜美化压缩语法校验与错误定位",
-    "description": "JSON格式化教程，说明JSON美化缩进、压缩成一行、语法校验、错误定位和折叠浏览，适合接口响应、配置片段、Webhook载荷与日志JSON的本地处理。",
-    "keywords": "JSON格式化,在线JSON格式化,json文件在线格式化,json缩进格式化,JSON美化,JSON压缩,JSON校验,在线格式化JSON,JSON是什么,VSCode格式化JSON,接口JSON,配置JSON,Webhook JSON,JSON语法错误,JSON错误定位",
+    "title": "JSON格式化工具教程｜json formatter、在线解析、校验与查看",
+    "description": "JSON 格式化工具教程：json formatter 在线解析与美化、json validator 校验、json viewer 折叠查看；支持压缩与 CodeMirror 编辑，适合接口、配置与 Webhook，浏览器本地处理不上传。",
+    "keywords": "json formatter,json,json在线解析,json viewer,json validator,json在线格式化,json格式化工具,在线json格式化,json美化,json编辑器,json查看器,json转换",
     "canonical": "https://gegegj.com/tool/json",
-    "updated": "2026-05-08"
+    "updated": "2026-05-16"
   },
   "14-multiplication-table-gegegj": {
     "title": "九九乘法表在线教程｜小九九算式、口诀对照与大九九扩展",
@@ -119,6 +119,13 @@
     "keywords": "字数统计,在线字数统计,字符统计,字数统计器,查字数,总字数,中文字数统计,英文单词统计,中文标点,数字个数,行数统计,在线字符统计,文章字数,稿件字数,繁体字字数,字數計算",
     "canonical": "https://gegegj.com/tool/word-count",
     "relatedToolPath": "/tool/word-count",
+    "updated": "2026-05-09"
+  },
+  "17-site-brand-promo-gegegj": {
+    "title": "鸽鸽工具网｜免费在线工具箱推广介绍：适合谁、坚持什么、与总览文怎么搭配",
+    "description": "鸽鸽工具网推广向介绍：面向办公、财务、人力、研发、运营与家庭的碎片化计算与转换需求，说明免注册、本地处理与汇率代理等体验原则，并引导首页、整站功能总览与博客列表。",
+    "keywords": "鸽鸽工具网,gegegj,在线工具箱,免费在线工具,工具网站推荐,实用工具合集,在线计算器,房贷个税时间戳二维码",
+    "canonical": "https://gegegj.com/blog/17-site-brand-promo-gegegj",
     "updated": "2026-05-09"
   }
 }

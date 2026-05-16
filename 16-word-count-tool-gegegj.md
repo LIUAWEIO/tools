@@ -50,7 +50,7 @@ Word 对脚注、域、中英文「词」的规则与本页不同；本页规则
 
 ## 与站内其它工具的配合
 
-- 长文排版前先 [JSON 格式化](https://gegegj.com/tool/json)（若内容是配置或接口片段）。  
+- 长文排版前先 [JSON 格式化工具](https://gegegj.com/tool/json)（若内容是配置或接口片段）。  
 - 配图上传前 [图片压缩](https://gegegj.com/tool/image-compress)。
 
 ## 免责声明
