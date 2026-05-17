@@ -55,7 +55,7 @@
 ## 与站内其它工具的配合
 
 - 需要整理老师发来的**活动配置或 JSON 片段**时，可配合 [JSON 格式化工具](https://gegegj.com/tool/json) 做 json viewer 查看结构。  
-- 若要把班级通知、文档链接做成可扫码图片，可使用 [二维码/条形码生成](https://gegegj.com/tool/qrcode)。
+- 若要把班级通知、文档链接做成可扫码图片，可使用 [二维码生成器](https://gegegj.com/tool/qrcode)。
 
 ## 教学说明与免责
 

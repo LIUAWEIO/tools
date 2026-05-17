@@ -70,7 +70,7 @@
 ## 与站内其它工具的配合
 
 - 日志中的时间戳字段：见 [Unix 时间戳换算](https://gegegj.com/calc/timestamp)。  
-- 活动页回传 JSON 样例整理后，可与 [二维码生成](https://gegegj.com/tool/qrcode) 配合生成物料说明链接。
+- 活动页回传 JSON 样例整理后，可与 [二维码生成器](https://gegegj.com/tool/qrcode) 配合生成物料说明链接。
 
 ## 数据来源与计算依据
 
