@@ -24,11 +24,11 @@
 | Unix 时间戳 | [打开](https://gegegj.com/blog/07-unix-timestamp-gegegj) | [07-unix-timestamp-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/07-unix-timestamp-gegegj.md) |
 | 时区换算 | [打开](https://gegegj.com/blog/08-timezone-converter-gegegj) | [08-timezone-converter-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/08-timezone-converter-gegegj.md) |
 | BMI 计算 | [打开](https://gegegj.com/blog/09-bmi-calculator-gegegj) | [09-bmi-calculator-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/09-bmi-calculator-gegegj.md) |
-| 单位换算 | [打开](https://gegegj.com/blog/10-unit-converter-gegegj) | [10-unit-converter-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/10-unit-converter-gegegj.md) |
+| 单位换算器 | [打开](https://gegegj.com/blog/10-unit-converter-gegegj) | [10-unit-converter-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/10-unit-converter-gegegj.md) |
 | 二维码生成器 | [打开](https://gegegj.com/blog/11-qrcode-generator-gegegj) | [11-qrcode-generator-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/11-qrcode-generator-gegegj.md) |
 | JSON 格式化工具 | [打开](https://gegegj.com/blog/12-json-formatter-gegegj) | [12-json-formatter-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/12-json-formatter-gegegj.md) |
 | 图片压缩工具 | [打开](https://gegegj.com/blog/13-image-compress-gegegj) | [13-image-compress-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/13-image-compress-gegegj.md) |
-| 九九乘法表与乘法口诀 | [打开](https://gegegj.com/blog/14-multiplication-table-gegegj) | [14-multiplication-table-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/14-multiplication-table-gegegj.md) |
+| 乘法口诀表 | [打开](https://gegegj.com/blog/14-multiplication-table-gegegj) | [14-multiplication-table-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/14-multiplication-table-gegegj.md) |
 | 预产期计算器 | [打开](https://gegegj.com/blog/15-due-date-calculator-gegegj) | [15-due-date-calculator-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/15-due-date-calculator-gegegj.md) |
 | 字数统计工具 | [打开](https://gegegj.com/blog/16-word-count-tool-gegegj) | [16-word-count-tool-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/16-word-count-tool-gegegj.md) |
 | 总站推广介绍（收藏理由与体验原则） | [打开](https://gegegj.com/blog/17-site-brand-promo-gegegj) | [17-site-brand-promo-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/17-site-brand-promo-gegegj.md) |
