@@ -32,6 +32,7 @@
 | 预产期计算器 | [打开](https://gegegj.com/blog/15-due-date-calculator-gegegj) | [15-due-date-calculator-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/15-due-date-calculator-gegegj.md) |
 | 字数统计工具 | [打开](https://gegegj.com/blog/16-word-count-tool-gegegj) | [16-word-count-tool-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/16-word-count-tool-gegegj.md) |
 | 总站推广介绍（收藏理由与体验原则） | [打开](https://gegegj.com/blog/17-site-brand-promo-gegegj) | [17-site-brand-promo-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/17-site-brand-promo-gegegj.md) |
+| 接口 data 带反斜杠怎么展开成 JSON | [打开](https://gegegj.com/blog/18-json-data-field-escaped-string-gegegj) | [18-json-data-field-escaped-string-gegegj.md](https://github.com/LIUAWEIO/tools/blob/master/18-json-data-field-escaped-string-gegegj.md) |
 
 更多教程与场景类文章见站内 [博客列表](https://gegegj.com/blog)。
 

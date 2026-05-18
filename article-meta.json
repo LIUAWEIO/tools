@@ -127,5 +127,13 @@
     "keywords": "鸽鸽工具网,gegegj,在线工具箱,免费在线工具,工具网站推荐,实用工具合集,在线计算器,房贷个税时间戳二维码",
     "canonical": "https://gegegj.com/blog/17-site-brand-promo-gegegj",
     "updated": "2026-05-09"
+  },
+  "18-json-data-field-escaped-string-gegegj": {
+    "title": "接口里的 data 是一长串带反斜杠的文本，怎么才能展开成 JSON？",
+    "description": "说明接口返回 data 为转义 JSON 字符串时的辨认方法、二次解析步骤，以及如何用 JSON 格式化工具分段校验；附 HTML 误判、复制来源错误与脱敏提醒。",
+    "keywords": "json在线解析,data是字符串,json转义,二次json,json formatter,json validator,接口返回",
+    "canonical": "https://gegegj.com/blog/18-json-data-field-escaped-string-gegegj",
+    "relatedToolPath": "/tool/json",
+    "updated": "2026-05-18"
   }
 }
