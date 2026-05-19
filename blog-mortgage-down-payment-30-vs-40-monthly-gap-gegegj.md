@@ -18,7 +18,7 @@
 
 等额本金则首月月供更高，但每月还的本金固定、利息递减；同样对比 180 万与 210 万，首月差额会比等额本息更明显。前期利息占比高是等额本息的特点，见 [前几年利息占比](https://gegegj.com/blog/mortgage-equal-payment-interest-heavy-early-years)。
 
-利率若上浮 0.3～0.5 个百分点，月供对现金流很敏感，可再做 [LPR 压力试算](https://gegegj.com/blog/mortgage-lpr-stress-test)。提前还贷思路见 [提前还贷规划](https://gegegj.com/blog/mortgage-prepayment-planning)，主教程见 [房贷计算器指南](https://gegegj.com/blog/mortgage-calculator-guide)。
+利率若上浮 0.3～0.5 个百分点，月供对现金流很敏感，可再做 [LPR 压力试算](https://gegegj.com/blog/mortgage-lpr-stress-test)。提前还贷思路见 [提前还贷规划](https://gegegj.com/blog/mortgage-prepayment-planning)，见 [房贷计算器指南](https://gegegj.com/blog/mortgage-calculator-guide)。
 
 ## 别只比月供：手里还要留装修、税费、应急
 
@@ -54,14 +54,10 @@
 
 ## 使用提醒
 
-本文是 鸽鸽工具网（gegegj.com）「房贷计算器」其它场景说明，与第一、二批标题不同，专门回答一个具体问法。工具在浏览器本地计算，适合试算和沟通，正式办事仍以银行、税务、医院、合同文本为准。
+本文围绕「房贷计算器」的一个常见问题展开，工具在浏览器本地计算，适合试算与沟通；正式办事仍以银行、税务、医院、合同文本为准。
 
-涉及他人隐私的数据请先打码练手；公共电脑、录屏直播不要粘贴真实工资、病历、Token、合同金额。
-
-若结果和官方差一两元、差一天，先核对口径（含不含首尾日、秒还是毫秒、购汇买入卖出价等），口径一致后再判断是否工具问题。
-
-鸽鸽工具网同一工具另有主教程、编号教程（如 12-json-formatter-gegegj）以及其它场景说明，可按标题挑最贴近的一篇读，不必每篇通读。
+涉及隐私的数据请先脱敏；公共电脑、录屏环境勿粘贴真实工资、病历、Token 或合同金额。
 
 ## 小结
 
-同样总价，首付多一成、贷款少一成，月供和总利息通常会明显下降；用 [房贷计算器](https://gegegj.com/calc/mortgage) 分两次输入贷款本金对比即可。签约与扣款以银行为准，工具只做购房前比选与家庭沟通。
+同样总价，首付多一成、贷款少一成，月供和总利息通常会明显下降；用 房贷计算器 分两次输入贷款本金对比即可。签约与扣款以银行为准，工具只做购房前比选与家庭沟通。

@@ -12,9 +12,9 @@ MySQL 里 `created_at` 为 NULL：业务上表示「未发生」；拿去 [Unix 
 
 ## 排障顺序：先类型，再换算，再时区
 
-导出 CSV 时空值有时变成空字符串、有时变成 0，要在数据字典里写清。接口 JSON 里 `"createdAt": null` 与 `"createdAt": 0` 语义完全不同；整条日志可贴 [JSON 格式化工具](https://gegegj.com/tool/json) 展开（大文件先 [截取片段](https://gegegj.com/blog/json-log-snippet-workflow)）。
+导出 CSV 时空值有时变成空字符串、有时变成 0，要在数据字典里写清。接口 JSON 里 `"createdAt": null` 与 `"createdAt": 0` 语义完全不同；整条日志可贴 JSON 格式化工具 展开（大文件先 [截取片段](https://gegegj.com/blog/json-log-snippet-workflow)）。
 
-换算结果与界面差 8 小时，多半是 UTC 与本地混淆，见 [日志差 8 小时](https://gegegj.com/blog/timestamp-log-timezone-pitfalls)。跨国对比用 [时区换算](https://gegegj.com/calc/timezone)。更系统的说明见 [时间戳长文](https://gegegj.com/blog/longread-unix-timestamp-explained) 与 [时间戳指南](https://gegegj.com/blog/timestamp-guide)。
+换算结果与界面差 8 小时，多半是 UTC 与本地混淆，见 [日志差 8 小时](https://gegegj.com/blog/timestamp-log-timezone-pitfalls)。跨国对比用 时区换算。更系统的说明见 时间戳。
 
 ## 和 Excel、JavaScript 的边界
 

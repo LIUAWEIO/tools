@@ -14,7 +14,7 @@
 
 横图（头图、配图）：优先限制宽度 900～1280px，再压缩。竖图（长图、海报切片）：按阅读宽度 1080px 切分段落，每段单独压，比一张 8000px 高图一次压更易过限也更易加载。
 
-邮件附件、工单上传见 [附件超限](https://gegegj.com/blog/image-compress-attachment-and-listing)；电商主图列表慢也可先压再传。文内小码用 [二维码生成器](https://gegegj.com/tool/qrcode) 导出适中 PNG，别嵌 3000px 大图。详见 [压缩指南](https://gegegj.com/blog/image-compress-guide) 与 [图片压缩教程](https://gegegj.com/blog/13-image-compress-gegegj)。
+邮件附件、工单上传见 [附件超限](https://gegegj.com/blog/image-compress-attachment-and-listing)；电商主图列表慢也可先压再传。文内小码用 二维码生成器 导出适中 PNG，别嵌 3000px 大图。详见 [压缩指南](https://gegegj.com/blog/image-compress-guide) 与 [图片压缩教程](https://gegegj.com/blog/13-image-compress-gegegj)。
 
 ## 隐私与画质平衡
 

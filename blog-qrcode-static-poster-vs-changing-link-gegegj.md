@@ -14,11 +14,11 @@
 
 线下量小、改一次活动：重印成本可能更低，还能换设计。量大、灯箱、门店立牌：上线短链+固定入口码更常见。注意短链过期、账号欠费、域名被封等风险，活动结束可保留跳转说明页而非 404。
 
-印刷留白与分辨率见 [印刷留白](https://gegegj.com/blog/qrcode-print-bleed-safe-area)；Wi-Fi、电子名片内容宜短，见 [Wi-Fi 与 vCard](https://gegegj.com/blog/qrcode-wifi-and-vcard)。条码物料另见 [二维码长文](https://gegegj.com/blog/longread-qr-and-barcode-symbols) 与 [生成器教程](https://gegegj.com/blog/11-qrcode-generator-gegegj)。
+印刷留白与分辨率见 [印刷留白](https://gegegj.com/blog/qrcode-print-bleed-safe-area)；Wi-Fi、电子名片内容宜短，见 [Wi-Fi 与 vCard](https://gegegj.com/blog/qrcode-wifi-and-vcard)。条码物料另见 [二维码长文](https://gegegj.com/blog/longread-qr-and-barcode-symbols) 与 生成器教程。
 
 ## 和图片体积、落地页体验
 
-海报高清大图可先 [压缩图片](https://gegegj.com/tool/image-compress) 再拼版，避免扫码区被裁切或文件过大传不上印刷厂系统。落地页若返回 JSON 配置给前端渲染，整理样例可用 [JSON 格式化工具](https://gegegj.com/tool/json) 校验后再上线。
+海报高清大图可先 压缩图片 再拼版，避免扫码区被裁切或文件过大传不上印刷厂系统。落地页若返回 JSON 配置给前端渲染，整理样例可用 JSON 格式化工具 校验后再上线。
 
 ## 小结
 

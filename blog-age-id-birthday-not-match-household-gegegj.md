@@ -14,11 +14,11 @@
 
 不少地区小学入学要求 8 月 31 日（含）前满 6 周岁。出生 2019-09-01 的孩子，到 2025-08-31 还差一天不满 6 周岁，可能无法报当年入学——这和「还差一个月才 6 岁」的直觉不同。截止日规则详见 [8 月 31 日还是报名日](https://gegegj.com/blog/age-school-enrollment-deadline)。
 
-虚岁、民俗问年龄见 [周岁与虚岁](https://gegegj.com/blog/longread-age-and-calendar-customs)。体检表上的年龄若与身份证不符，以医院是否采信证件为准；BMI 等健康指标用 [BMI 计算器](https://gegegj.com/calc/bmi) 另填，不要混在年龄证明里。
+虚岁、民俗问年龄见 [周岁与虚岁](https://gegegj.com/blog/longread-age-and-calendar-customs)。体检表上的年龄若与身份证不符，以医院是否采信证件为准；BMI 等健康指标用 BMI 计算器 另填，不要混在年龄证明里。
 
 ## 和日期间隔、预产期不要混工具
 
-「距离 18 岁还有多少天」属于日期间隔，用 [日期天数计算器](https://gegegj.com/calc/date)；「是否满 6 周岁」用年龄计算器。孕妇孕周与预产期见 [预产期计算器](https://gegegj.com/calc/due-date)，和儿童入学年龄无关。
+「距离 18 岁还有多少天」属于日期间隔，用 日期天数计算器；「是否满 6 周岁」用年龄计算器。孕妇孕周与预产期见 预产期计算器，和儿童入学年龄无关。
 
 更多填表说明见 [年龄计算器指南](https://gegegj.com/blog/age-calculator-guide)。工具在本地计算，不联网；政策边界以教育局、考试院当年文件为准。
 

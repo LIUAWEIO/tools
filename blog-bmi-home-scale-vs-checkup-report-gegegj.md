@@ -14,7 +14,7 @@
 
 部分秤用生物电阻抗估算体脂，再反推一个「体质指数」，算法和医院体重÷身高² 不一致。肌肉量大、健身人群体表 BMI 偏高不一定代表脂肪超标，见 [运动员 BMI 偏高](https://gegegj.com/blog/bmi-athlete-note)。老人、儿童、孕妇不宜单用成人 BMI 表自我诊断。
 
-投保、入职体检若同时填年龄与 BMI，年龄用 [年龄计算器](https://gegegj.com/calc/age)，别混在一张表里抄错。更多边界见 [BMI 长文](https://gegegj.com/blog/longread-bmi-body-composition) 与 [BMI 指南](https://gegegj.com/blog/bmi-guide)。
+投保、入职体检若同时填年龄与 BMI，年龄用 年龄计算器，别混在一张表里抄错。更多边界见 [BMI 长文](https://gegegj.com/blog/longread-bmi-body-composition) 与 BMI 指南。
 
 ## 四舍五入与「正常范围」怎么读
 

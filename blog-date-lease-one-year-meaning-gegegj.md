@@ -14,11 +14,11 @@
 
 若合同约定「住满 12 个月可退押金」，有的房东按自然月理解（3 月入住要次年 3 月），有的按 365 天。建议在签约时用计算器截两个日期，把「相差 X 天」写进补充条款或微信文字确认，比事后口头争「一年」省事。
 
-工期、请假统计若还要扣周末，工具给的是日历日，不是工作日，见 [工作日估算](https://gegegj.com/blog/date-workdays-pointer)。项目排期总览可看 [日期计算器指南](https://gegegj.com/blog/date-diff-guide) 与 [日期间隔长文](https://gegegj.com/blog/longread-calendar-date-interval)。
+工期、请假统计若还要扣周末，工具给的是日历日，不是工作日，见 [工作日估算](https://gegegj.com/blog/date-workdays-pointer)。项目排期总览可看 [日期计算器指南](https://gegegj.com/blog/date-diff-guide) 与 日期间隔长文。
 
 ## 和年龄、预产期等「按日计算」场景
 
-入学、投保看的是周岁截止日，用 [年龄计算器](https://gegegj.com/calc/age)；租约看的是纯日期差，用本工具。不要混用。若租约里写「剩余租期倒计时」，从今天到到期日再算一次天数即可。
+入学、投保看的是周岁截止日，用 年龄计算器；租约看的是纯日期差，用本工具。不要混用。若租约里写「剩余租期倒计时」，从今天到到期日再算一次天数即可。
 
 ## 小结
 

@@ -14,7 +14,7 @@
 
 常见说明：「每 60 mL 温水加 1 平勺奶粉」。若罐体总容量写 23.2 fl oz，先换算约 686 mL，再按每次 60 mL 粗算可冲次数（未考虑挂壁损耗，仅数量级）。温度若写 98.6°F，需先换成 ℃再操作，避免烫伤。
 
-显示器、行李箱尺寸英寸换厘米见 [对角线英寸](https://gegegj.com/blog/unit-screen-diagonal-inch-cm)；跑步配速见 [公里英里配速](https://gegegj.com/blog/unit-running-pace-km-mile)。药品剂量以说明书为准，在线换算只作核对。
+显示器、行李箱尺寸英寸换厘米见 [对角线英寸](https://gegegj.com/blog/unit-screen-diagonal-inch-cm)；跑步配速见 公里英里配速。药品剂量以说明书为准，在线换算只作核对。
 
 ## 小结
 
