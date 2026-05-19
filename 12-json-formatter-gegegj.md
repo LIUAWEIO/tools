@@ -11,7 +11,7 @@
 - **json validator**：解析失败时给出**中文**错误线索与行列提示。  
 - **json viewer**：输出区可折叠浏览对象与数组层级（CodeMirror 树形阅读）。
 
-解析在**浏览器本地**执行，不把粘贴内容作为业务数据上传至本站服务器（仍建议敏感 JSON 先脱敏）。
+解析在**浏览器本地**执行，不把粘贴内容作为业务数据上传至服务器服务器（仍建议敏感 JSON 先脱敏）。
 
 接口联调里常见叫法包括 **json formatter、json、json在线解析、json viewer、json validator、json在线格式化、json格式化工具、在线json格式化、json美化、json编辑器、json查看器、json转换** 等。与 IDE 相比，在线工具胜在**零安装、快速粘贴**；劣势是**不适合超大文件**与**涉密生产数据**，请自行权衡。
 
@@ -67,7 +67,7 @@
 **能校验 JSON Schema 或转 CSV 吗？**  
 当前为语法级校验与格式化，不提供 schema 校验或 JSON 转 CSV/XML。
 
-## 与站内其它工具的配合
+## 与其它相关工具的配合
 
 - 日志中的时间戳字段：见 [Unix 时间戳换算](https://gegegj.com/calc/timestamp)。  
 - 活动页回传 JSON 样例整理后，可与 [二维码生成器](https://gegegj.com/tool/qrcode) 配合生成物料说明链接。
