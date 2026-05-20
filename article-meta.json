@@ -159,6 +159,14 @@
     "updated": "2026-04-30",
     "relatedToolPath": "/calc/age"
   },
+  "age-delayed-retirement-birth-year": {
+    "title": "我是1985年出生，到底哪年退休？网上表格能不能信？",
+    "description": "说明延迟退休政策下按出生年估算退休时间时应注意的口径，以及年龄计算器的适用边界。",
+    "keywords": "年龄计算器,退休,延迟退休,出生年份,法定退休年龄",
+    "canonical": "https://gegegj.com/blog/age-delayed-retirement-birth-year",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/calc/age"
+  },
   "age-delayed-retirement-months-rough": {
     "title": "延迟退休消息后，还差几年退休该按生日还是按档案算？",
     "description": "说明延迟退休政策下个人如何结合年龄计算器与官方文件粗算退休时间。",
@@ -173,6 +181,14 @@
     "keywords": "年龄计算器,周岁,年满18周岁,出生日期",
     "canonical": "https://gegegj.com/blog/age-eighteen-birthday-that-day",
     "updated": "2026-05-20",
+    "relatedToolPath": "/calc/age"
+  },
+  "age-eighteen-sign-contract-birthday-day": {
+    "title": "18岁生日当天能自己签合同吗？还是要等过了生日第二天？",
+    "description": "说明满 18 周岁签订合同的时间点及年龄计算器的用法。",
+    "keywords": "年龄计算器,18周岁,签订合同,民事行为能力",
+    "canonical": "https://gegegj.com/blog/age-eighteen-sign-contract-birthday-day",
+    "updated": "2026-05-24",
     "relatedToolPath": "/calc/age"
   },
   "age-id-birthday-not-match-household": {
@@ -239,6 +255,22 @@
     "updated": "2026-05-19",
     "relatedToolPath": "/calc/bmi"
   },
+  "bmi-normal-but-belly-fat-waist": {
+    "title": "BMI 正常但肚子大，算不算胖？腰围要比体重更重要吗？",
+    "description": "说明 BMI 正常仍可能存在中心性肥胖的情况，以及腰围等指标的意义。",
+    "keywords": "BMI计算器,腰围,内脏脂肪,中心性肥胖,体重",
+    "canonical": "https://gegegj.com/blog/bmi-normal-but-belly-fat-waist",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/calc/bmi"
+  },
+  "bmi-pregnancy-not-use-pre-pregnancy-only": {
+    "title": "怀孕了还能用普通 BMI 表判断胖瘦吗？",
+    "description": "说明孕期体重管理应基于孕前 BMI 与产科增重建议，而非普通成人 BMI 计算器。",
+    "keywords": "BMI计算器,孕期体重,孕前BMI,增重建议",
+    "canonical": "https://gegegj.com/blog/bmi-pregnancy-not-use-pre-pregnancy-only",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/calc/bmi"
+  },
   "bmi-siblings-same-weight-different-height": {
     "title": "兄妹体重一样高不一样，BMI能放在一起比吗？",
     "description": "说明同体重不同身高时BMI的差异原因，以及家庭场景中的正确用法。",
@@ -261,6 +293,14 @@
     "keywords": "鸽鸽工具网,日期计算,相差天数,工期计算,合同周期,排期工具",
     "canonical": "https://gegegj.com/blog/date-diff-guide",
     "updated": "2026-04-29",
+    "relatedToolPath": "/calc/date"
+  },
+  "date-effective-same-day-or-next-day": {
+    "title": "合同写「自签订之日起生效」，算签字当天还是第二天？",
+    "description": "说明合同生效日期常见表述及用日期工具核对履行期限的方法。",
+    "keywords": "日期计算器,合同生效,签订之日,履行期限",
+    "canonical": "https://gegegj.com/blog/date-effective-same-day-or-next-day",
+    "updated": "2026-05-24",
     "relatedToolPath": "/calc/date"
   },
   "date-feb-29-birthday-age-each-year": {
@@ -303,6 +343,14 @@
     "updated": "2026-05-22",
     "relatedToolPath": "/calc/date"
   },
+  "date-ten-working-days-holiday": {
+    "title": "合同写「十个工作日内付款」，遇到春节国庆怎么数？",
+    "description": "说明合同中「工作日」期限的计算思路，以及用日期工具辅助核对日历日的做法。",
+    "keywords": "日期计算器,工作日,合同期限,法定节假日",
+    "canonical": "https://gegegj.com/blog/date-ten-working-days-holiday",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/calc/date"
+  },
   "date-workdays-pointer": {
     "title": "只要工作日天数？先用日历日估算再扣假",
     "description": "日期天数计算在工作日场景下的使用边界与建议流程。",
@@ -317,6 +365,14 @@
     "keywords": "预产期计算器,孕周计算器,怀孕计算器,孕期计算器,预产期,孕周计算,预产期计算公式,怀孕多少周,怀孕周期",
     "canonical": "https://gegegj.com/blog/due-date-37-weeks-is-it-preterm",
     "updated": "2026-05-22",
+    "relatedToolPath": "/calc/due-date"
+  },
+  "due-date-braxton-hicks-how-often": {
+    "title": "孕晚期肚子一阵阵发紧，离预产期还有三周，正常吗？",
+    "description": "说明孕晚期假性宫缩与真宫缩的粗略区分，以及结合预产期计算器理解孕周的方法。",
+    "keywords": "预产期计算器,假性宫缩,孕晚期,宫缩,孕周",
+    "canonical": "https://gegegj.com/blog/due-date-braxton-hicks-how-often",
+    "updated": "2026-05-23",
     "relatedToolPath": "/calc/due-date"
   },
   "due-date-ivf-transfer-day-not-lmp": {
@@ -343,12 +399,28 @@
     "updated": "2026-05-20",
     "relatedToolPath": "/calc/due-date"
   },
+  "due-date-twins-edd-calculator-same": {
+    "title": "怀双胞胎，预产期计算器算出来的日子准吗？",
+    "description": "说明双胎妊娠与单胎预产期计算差异及产检安排注意点。",
+    "keywords": "预产期计算器,双胞胎,孕周,早产",
+    "canonical": "https://gegegj.com/blog/due-date-twins-edd-calculator-same",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/calc/due-date"
+  },
   "exchange-bank-buy-sell-vs-middle-rate": {
     "title": "购汇时「现汇卖出价」和新闻里的中间价差一截，正常吗？",
     "description": "解释银行外汇牌价买入卖出与中间价差异，以及汇率换算器手动汇率在报销、购汇估算中的用法。",
     "keywords": "汇率换算,现汇,中间价,购汇,美元兑人民币",
     "canonical": "https://gegegj.com/blog/exchange-bank-buy-sell-vs-middle-rate",
     "updated": "2026-05-20",
+    "relatedToolPath": "/calc/exchange"
+  },
+  "exchange-card-settlement-rate-which-day": {
+    "title": "境外刷卡消费，汇率按刷卡那天还是入账那天算？",
+    "description": "说明境外信用卡消费汇率记账规则及用汇率工具粗算对账单的方法。",
+    "keywords": "汇率换算,境外刷卡,信用卡,记账汇率,购汇",
+    "canonical": "https://gegegj.com/blog/exchange-card-settlement-rate-which-day",
+    "updated": "2026-05-24",
     "relatedToolPath": "/calc/exchange"
   },
   "exchange-cash-usd-bill-vs-alipay-rate": {
@@ -399,6 +471,14 @@
     "updated": "2026-05-01",
     "relatedToolPath": "/calc/exchange"
   },
+  "exchange-visa-bank-statement-usd-amount": {
+    "title": "办签证要的银行存款证明，美元数额怎么从人民币存款换算？",
+    "description": "说明签证存款证明常见美元金额要求及用汇率换算器估算人民币购汇需求的方法。",
+    "keywords": "汇率换算,存款证明,签证,美元,购汇",
+    "canonical": "https://gegegj.com/blog/exchange-visa-bank-statement-usd-amount",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/calc/exchange"
+  },
   "image-compress-attachment-and-listing": {
     "title": "附件超限与商品图列表慢：先压缩图片再上传",
     "description": "结合图片压缩工具说明办公附件与电商后台上传前的体积控制思路。",
@@ -431,12 +511,28 @@
     "updated": "2026-05-16",
     "relatedToolPath": "/tool/image-compress"
   },
+  "image-compress-heic-to-jpg-email": {
+    "title": "iPhone 照片是 HEIC，发邮件对方打不开怎么办？",
+    "description": "说明 HEIC 格式邮件兼容问题及转 JPG 与压缩附件的步骤。",
+    "keywords": "压缩图片,在线图片压缩,在线压缩图片,图片压缩工具,图片压缩免费,照片压缩,图片压缩在线免费,批量压缩图片,无损压缩图片,jpg压缩",
+    "canonical": "https://gegegj.com/blog/image-compress-heic-to-jpg-email",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/tool/image-compress"
+  },
   "image-compress-png-transparent-background-black": {
     "title": "PNG 透明图在线压缩后，背景怎么变黑了？",
     "description": "说明 PNG 透明通道在压缩中的常见问题，以及根据用途选择 JPG、PNG、WebP 的建议。",
     "keywords": "压缩图片,在线图片压缩,在线压缩图片,图片压缩工具,图片压缩免费,照片压缩,图片压缩在线免费,批量压缩图片,无损压缩图片,jpg压缩",
     "canonical": "https://gegegj.com/blog/image-compress-png-transparent-background-black",
     "updated": "2026-05-20",
+    "relatedToolPath": "/tool/image-compress"
+  },
+  "image-compress-quality-85-or-70-email": {
+    "title": "发邮件附图，压缩质量 85 和 70 差很多吗？一般设多少？",
+    "description": "说明 JPG 压缩质量参数对邮件附件体积与观感的影响，以及图片压缩工具的试用建议。",
+    "keywords": "压缩图片,在线图片压缩,在线压缩图片,图片压缩工具,图片压缩免费,照片压缩,图片压缩在线免费,批量压缩图片,无损压缩图片,jpg压缩",
+    "canonical": "https://gegegj.com/blog/image-compress-quality-85-or-70-email",
+    "updated": "2026-05-23",
     "relatedToolPath": "/tool/image-compress"
   },
   "image-compress-wechat-2mb-limit": {
@@ -495,12 +591,28 @@
     "updated": "2026-05-22",
     "relatedToolPath": "/tool/json"
   },
+  "json-single-quotes-python-paste-fix": {
+    "title": "从 Python 复制过来的 JSON 报错，单引号是不是不行？",
+    "description": "说明 Python 字典与标准 JSON 的差异及在线 JSON 格式化工具的校验与修复步骤。",
+    "keywords": "json formatter,json,json在线解析,json viewer,json validator,json在线格式化,json格式化工具,在线json格式化,json美化,json编辑器,json查看器,json转换",
+    "canonical": "https://gegegj.com/blog/json-single-quotes-python-paste-fix",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/tool/json"
+  },
   "json-trailing-comma-backend-reject": {
     "title": "JSON 最后多了一个逗号，为什么在线格式化直接报错？",
     "description": "说明 JSON 尾随逗号错误的原因及用在线 JSON 格式化工具校验的配置文件。",
     "keywords": "json formatter,json,json在线解析,json viewer,json validator,json在线格式化,json格式化工具,在线json格式化,json美化,json编辑器,json查看器,json转换",
     "canonical": "https://gegegj.com/blog/json-trailing-comma-backend-reject",
     "updated": "2026-05-21",
+    "relatedToolPath": "/tool/json"
+  },
+  "json-unicode-escape-chinese-display": {
+    "title": "JSON 里中文全变成 \\u4e2d\\u6587，怎么在编辑器里直接看到汉字？",
+    "description": "说明 JSON 中 Unicode 转义中文的原因，以及用在线 JSON 格式化工具还原可读汉字的方法。",
+    "keywords": "json formatter,json,json在线解析,json viewer,json validator,json在线格式化,json格式化工具,在线json格式化,json美化,json编辑器,json查看器,json转换",
+    "canonical": "https://gegegj.com/blog/json-unicode-escape-chinese-display",
+    "updated": "2026-05-23",
     "relatedToolPath": "/tool/json"
   },
   "longread-age-and-calendar-customs": {
@@ -663,12 +775,28 @@
     "updated": "2026-05-21",
     "relatedToolPath": "/calc/mortgage"
   },
+  "mortgage-early-repay-shorten-term-or-lower-payment": {
+    "title": "提前还了十万房贷，选缩短期限还是减少月供更划算？",
+    "description": "说明房贷部分提前还款后「缩短期限」与「减少月供」的差异及试算方法。",
+    "keywords": "房贷计算器,提前还款,缩短期限,减少月供,总利息",
+    "canonical": "https://gegegj.com/blog/mortgage-early-repay-shorten-term-or-lower-payment",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/calc/mortgage"
+  },
   "mortgage-equal-payment-interest-heavy-early-years": {
     "title": "等额本息前几年月供里，利息是不是占了大头？怎么自己验一遍",
     "description": "说明等额本息前期利息占比高的原因，并用房贷计算器分年粗算本金与利息结构，辅助购房与提前还贷判断。",
     "keywords": "房贷计算器,等额本息,等额本金,月供,总利息,本金",
     "canonical": "https://gegegj.com/blog/mortgage-equal-payment-interest-heavy-early-years",
     "updated": "2026-05-20",
+    "relatedToolPath": "/calc/mortgage"
+  },
+  "mortgage-floating-rate-reset-month": {
+    "title": "房贷利率每年1月1日重定价，下一年月供到底怎么变？",
+    "description": "说明浮动利率房贷在年度重定价日的计算逻辑，以及用房贷计算器做次年月供对比的方法。",
+    "keywords": "房贷计算器,LPR,重定价,月供,浮动利率",
+    "canonical": "https://gegegj.com/blog/mortgage-floating-rate-reset-month",
+    "updated": "2026-05-23",
     "relatedToolPath": "/calc/mortgage"
   },
   "mortgage-lpr-stress-test": {
@@ -718,6 +846,38 @@
     "canonical": "https://gegegj.com/blog/multiplication-table-skip-row-check",
     "updated": "2026-05-19",
     "relatedToolPath": "/tool/multiplication-table"
+  },
+  "multiplication-use-table-to-check-division": {
+    "title": "孩子除法总算错，能用乘法口诀反着验算吗？",
+    "description": "说明用乘法口诀表验算除法及纠正除法错误的学习方法。",
+    "keywords": "乘法口诀表,除法验算,小学数学,口诀",
+    "canonical": "https://gegegj.com/blog/multiplication-use-table-to-check-division",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/tool/multiplication-table"
+  },
+  "multiplication-wrong-row-pattern-fix": {
+    "title": "孩子乘法口诀总错「7」这一行，有没有系统的练法？",
+    "description": "说明针对乘法口诀某一错误行的练习方法，以及用在线口诀表按行练习的做法。",
+    "keywords": "乘法口诀表,背乘法,小学数学,错题,练习",
+    "canonical": "https://gegegj.com/blog/multiplication-wrong-row-pattern-fix",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/tool/multiplication-table"
+  },
+  "qrcode-collection-code-style-still-scan": {
+    "title": "收款码换成彩色或加了 logo，顾客还能扫吗？",
+    "description": "说明收款二维码美化、logo 与纠错级别对扫描成功率的影响及生成器使用建议。",
+    "keywords": "二维码生成器,收款码,静默区,logo,扫描",
+    "canonical": "https://gegegj.com/blog/qrcode-collection-code-style-still-scan",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/tool/qrcode"
+  },
+  "qrcode-dynamic-merchant-code-vs-static": {
+    "title": "店里贴的收款码是静态还是动态？换海报还能扫吗？",
+    "description": "说明静态与动态收款二维码的区别及店主与消费者注意点。",
+    "keywords": "二维码生成器,收款码,静态码,动态码,聚合支付",
+    "canonical": "https://gegegj.com/blog/qrcode-dynamic-merchant-code-vs-static",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/tool/qrcode"
   },
   "qrcode-generator-guide": {
     "title": "二维码生成器教程：网址转二维码、容错率与中间图标建议",
@@ -807,6 +967,14 @@
     "updated": "2026-05-20",
     "relatedToolPath": "/calc/rmb"
   },
+  "rmb-jiao-fen-zero-legal-uppercase": {
+    "title": "合同金额带角分，人民币大写写「零伍分」还是「伍分」才对？",
+    "description": "说明带角分金额转人民币大写的常见写法、易错点及用大写转换器复核的方法。",
+    "keywords": "人民币大写,角分,合同,财务,大写金额",
+    "canonical": "https://gegegj.com/blog/rmb-jiao-fen-zero-legal-uppercase",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/calc/rmb"
+  },
   "rmb-reimbursement-only-arabic-digits": {
     "title": "报销单上只有阿拉伯数字、没有大写金额，财务退回怎么补？",
     "description": "说明报销单、付款申请仅填数字时被退回时，如何用人民币大写转换器补写规范金额。",
@@ -823,6 +991,14 @@
     "updated": "2026-04-29",
     "relatedToolPath": "/calc/rmb"
   },
+  "rmb-vat-invoice-amount-mismatch-uppercase": {
+    "title": "增值税发票上大写金额和小写对不上，以哪个为准还能报销吗？",
+    "description": "说明增值税发票价税合计大小写不一致时的处理及大写转换器复核方法。",
+    "keywords": "人民币大写,增值税发票,价税合计,报销,财务",
+    "canonical": "https://gegegj.com/blog/rmb-vat-invoice-amount-mismatch-uppercase",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/calc/rmb"
+  },
   "rmb-wan-yi-digit-wrong-one-place": {
     "title": "合同大写金额「壹佰万」和数字 100 万，少写一位怎么一眼发现？",
     "description": "说明人民币大写中万、亿位错位的常见写法，以及用转换器双向核对的方法。",
@@ -830,6 +1006,14 @@
     "canonical": "https://gegegj.com/blog/rmb-wan-yi-digit-wrong-one-place",
     "updated": "2026-05-21",
     "relatedToolPath": "/calc/rmb"
+  },
+  "tax-bonus-taxed-separately-still-worth-it": {
+    "title": "年终奖单独计税是不是更省税？还是并入工资一起算？",
+    "description": "说明年终奖单独计税与并入综合所得的适用情形及个税试算思路。",
+    "keywords": "个税计算器,年终奖,单独计税,综合所得,汇算",
+    "canonical": "https://gegegj.com/blog/tax-bonus-taxed-separately-still-worth-it",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/calc/tax"
   },
   "tax-calculator-guide": {
     "title": "个税计算器使用指南：工资薪金与年终奖怎么估算更接近实发",
@@ -853,6 +1037,14 @@
     "keywords": "个税计算器,累计预扣,换工作,工资个税,税后工资",
     "canonical": "https://gegegj.com/blog/tax-job-change-low-withholding",
     "updated": "2026-05-19",
+    "relatedToolPath": "/calc/tax"
+  },
+  "tax-rent-deduction-work-city-vs-home": {
+    "title": "在A市上班租房，个税专项扣除能扣吗？工作地和租房地不一致怎么办？",
+    "description": "说明个税专项附加扣除中住房租金与工作地、租赁地的常见规则及填报注意点。",
+    "keywords": "个税计算器,专项附加扣除,住房租金,租房,汇算",
+    "canonical": "https://gegegj.com/blog/tax-rent-deduction-work-city-vs-home",
+    "updated": "2026-05-23",
     "relatedToolPath": "/calc/tax"
   },
   "tax-social-insurance-base": {
@@ -943,6 +1135,22 @@
     "updated": "2026-05-19",
     "relatedToolPath": "/calc/timestamp"
   },
+  "timestamp-wechat-export-vs-screen": {
+    "title": "微信聊天记录导出的时间，怎么和手机里看到的不一样？",
+    "description": "说明微信等聊天导出时间字段的常见格式，以及用 Unix 时间戳工具换算对照的方法。",
+    "keywords": "Unix时间戳,微信,聊天记录,导出,毫秒",
+    "canonical": "https://gegegj.com/blog/timestamp-wechat-export-vs-screen",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/calc/timestamp"
+  },
+  "timestamp-year-2038-problem-explained": {
+    "title": "时间戳到 2038 年真的会乱套吗？和我用网页工具有关吗？",
+    "description": "说明 Unix 时间戳 2038 年问题的原因及对普通用户与开发者的影响。",
+    "keywords": "Unix时间戳,2038年,Y2K38,32位,毫秒",
+    "canonical": "https://gegegj.com/blog/timestamp-year-2038-problem-explained",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/calc/timestamp"
+  },
   "timezone-dst-missing-hour-week": {
     "title": "夏令时切换那一周，会议时间为什么像「少了一小时」？",
     "description": "说明夏令时起止对跨国会议时间对照的影响，以及用时区换算工具复核的做法。",
@@ -991,6 +1199,22 @@
     "updated": "2026-05-20",
     "relatedToolPath": "/calc/timezone"
   },
+  "timezone-sydney-melbourne-beijing-call": {
+    "title": "悉尼墨尔本现在和北京差几小时？约澳洲客户开会几点合适？",
+    "description": "说明澳大利亚东部与北京时间对照及跨国会议安排建议。",
+    "keywords": "时区转换,悉尼,墨尔本,北京时间,夏令时",
+    "canonical": "https://gegegj.com/blog/timezone-sydney-melbourne-beijing-call",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/calc/timezone"
+  },
+  "timezone-uk-summer-beijing-meeting": {
+    "title": "英国夏令时和北京差几小时？约伦敦同事开会几点合适？",
+    "description": "说明英国夏令时与北京时间的对应关系，以及用时区转换工具安排跨国会议的方法。",
+    "keywords": "时区转换,英国,夏令时,北京时间,跨国会议",
+    "canonical": "https://gegegj.com/blog/timezone-uk-summer-beijing-meeting",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/calc/timezone"
+  },
   "timezone-us-market-open-beijing-time": {
     "title": "美股开盘是北京时间几点？夏令树一换又变一小时",
     "description": "说明美股交易时段与北京时间的对应关系，以及用时区工具换算的注意点。",
@@ -1023,12 +1247,28 @@
     "updated": "2026-05-20",
     "relatedToolPath": "/calc/unit"
   },
+  "unit-kwh-degree-electricity-bill": {
+    "title": "电费单上的「度」到底是什么单位？和焦耳怎么换算？",
+    "description": "说明千瓦时（度）与焦耳的关系，以及日常用电与单位换算器的使用场景。",
+    "keywords": "单位换算,千瓦时,度,电费,焦耳",
+    "canonical": "https://gegegj.com/blog/unit-kwh-degree-electricity-bill",
+    "updated": "2026-05-23",
+    "relatedToolPath": "/calc/unit"
+  },
   "unit-pound-vs-jin-body-scale": {
     "title": "体脂秤显示 150，是磅还是斤？换公斤怎么心算",
     "description": "说明体重秤磅、斤、公斤之间的换算及用单位换算器核对的方法。",
     "keywords": "单位换算器,在线单位换算,单位转换,长度单位换算,重量单位换算,温度单位换算,华氏度和摄氏度,英寸厘米换算,体积单位换算,面积单位换算",
     "canonical": "https://gegegj.com/blog/unit-pound-vs-jin-body-scale",
     "updated": "2026-05-21",
+    "relatedToolPath": "/calc/unit"
+  },
+  "unit-recipe-cup-to-grams-flour": {
+    "title": "美式食谱「一杯面粉」到底是多少克？",
+    "description": "说明食谱杯量与面粉克数换算及单位换算器在厨房中的用法。",
+    "keywords": "单位换算,一杯面粉,克,烘焙,食谱",
+    "canonical": "https://gegegj.com/blog/unit-recipe-cup-to-grams-flour",
+    "updated": "2026-05-24",
     "relatedToolPath": "/calc/unit"
   },
   "unit-running-pace-km-mile": {
@@ -1055,6 +1295,14 @@
     "updated": "2026-05-22",
     "relatedToolPath": "/calc/unit"
   },
+  "word-count-footnotes-and-endnotes": {
+    "title": "硕士论文字数，脚注和尾注到底算不算进去？",
+    "description": "说明学位论文字数统计是否包含脚注尾注及工具与 Word 对照方法。",
+    "keywords": "字数统计工具,在线字数统计,字数统计在线,字数计算器,字数统计器,查字数,字数查询,字数检查,字符统计,字符计算器",
+    "canonical": "https://gegegj.com/blog/word-count-footnotes-and-endnotes",
+    "updated": "2026-05-24",
+    "relatedToolPath": "/tool/word-count"
+  },
   "word-count-mixed-chinese-english-spaces": {
     "title": "论文中英文混排，字数统计空格和英文单词怎么算？",
     "description": "说明中英混排文本在字数统计中的常见规则及工具分类查看用法。",
@@ -1069,6 +1317,14 @@
     "keywords": "字数统计工具,在线字数统计,字数统计在线,字数计算器,字数统计器,查字数,字数查询,字数检查,字符统计,字符计算器",
     "canonical": "https://gegegj.com/blog/word-count-punctuation-in-contest-limit",
     "updated": "2026-05-19",
+    "relatedToolPath": "/tool/word-count"
+  },
+  "word-count-title-abstract-included": {
+    "title": "学校说论文字数含摘要，参考文献算不算？我该怎么数？",
+    "description": "说明学位论文与期刊投稿中字数统计是否含标题、摘要、参考文献的常见差异及工具用法。",
+    "keywords": "字数统计工具,在线字数统计,字数统计在线,字数计算器,字数统计器,查字数,字数查询,字数检查,字符统计,字符计算器",
+    "canonical": "https://gegegj.com/blog/word-count-title-abstract-included",
+    "updated": "2026-05-23",
     "relatedToolPath": "/tool/word-count"
   },
   "word-count-translation-per-thousand-chinese": {
