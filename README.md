@@ -61,10 +61,12 @@
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
 | 等额本息前几年月供里，利息是不是占了大头？怎么自己验一遍 | [打开](https://gegegj.com/blog/mortgage-equal-payment-interest-heavy-early-years) | [blog-mortgage-equal-payment-interest-heavy-early-years-gegegj.md](./blog-mortgage-equal-payment-interest-heavy-early-years-gegegj.md) |
+| 房贷利率每年1月1日重定价，下一年月供到底怎么变？ | [打开](https://gegegj.com/blog/mortgage-floating-rate-reset-month) | [blog-mortgage-floating-rate-reset-month-gegegj.md](./blog-mortgage-floating-rate-reset-month-gegegj.md) |
 | 房贷利率上调怎么试算？用月供压力测试做购房预算 | [打开](https://gegegj.com/blog/mortgage-lpr-stress-test) | [blog-mortgage-lpr-stress-test-gegegj.md](./blog-mortgage-lpr-stress-test-gegegj.md) |
 | 商贷和公积金各贷一部分，月供能不能直接两笔相加？ | [打开](https://gegegj.com/blog/mortgage-combined-loan-two-parts) | [blog-mortgage-combined-loan-two-parts-gegegj.md](./blog-mortgage-combined-loan-two-parts-gegegj.md) |
 | 首付三成和四成，月供能差出一千块吗？买房前怎么粗算 | [打开](https://gegegj.com/blog/mortgage-down-payment-30-vs-40-monthly-gap) | [blog-mortgage-down-payment-30-vs-40-monthly-gap-gegegj.md](./blog-mortgage-down-payment-30-vs-40-monthly-gap-gegegj.md) |
 | 提前还房贷前要不要先算一遍？月供试算与剩余本金思路 | [打开](https://gegegj.com/blog/mortgage-prepayment-planning) | [blog-mortgage-prepayment-planning-gegegj.md](./blog-mortgage-prepayment-planning-gegegj.md) |
+| 提前还了十万房贷，选缩短期限还是减少月供更划算？ | [打开](https://gegegj.com/blog/mortgage-early-repay-shorten-term-or-lower-payment) | [blog-mortgage-early-repay-shorten-term-or-lower-payment-gegegj.md](./blog-mortgage-early-repay-shorten-term-or-lower-payment-gegegj.md) |
 | 银行说月供不能超过收入一半，我自己怎么先算一遍？ | [打开](https://gegegj.com/blog/mortgage-affordability-income-ratio-self-check) | [blog-mortgage-affordability-income-ratio-self-check-gegegj.md](./blog-mortgage-affordability-income-ratio-self-check-gegegj.md) |
 
 ### 个税计算器
@@ -73,9 +75,11 @@
 |------|----------------|-------------|
 | 换工作后好几个月个税特别少，是算错还是累计预扣在「补课」？ | [打开](https://gegegj.com/blog/tax-job-change-low-withholding) | [blog-tax-job-change-low-withholding-gegegj.md](./blog-tax-job-change-low-withholding-gegegj.md) |
 | 每月工资条扣税不少，汇算清缴怎么还能退几千？ | [打开](https://gegegj.com/blog/tax-year-end-refund-why-more-withheld) | [blog-tax-year-end-refund-why-more-withheld-gegegj.md](./blog-tax-year-end-refund-why-more-withheld-gegegj.md) |
+| 年终奖单独计税是不是更省税？还是并入工资一起算？ | [打开](https://gegegj.com/blog/tax-bonus-taxed-separately-still-worth-it) | [blog-tax-bonus-taxed-separately-still-worth-it-gegegj.md](./blog-tax-bonus-taxed-separately-still-worth-it-gegegj.md) |
 | 年终奖与十三薪个税估算：单独计税与并入工资怎么粗比 | [打开](https://gegegj.com/blog/tax-thirteen-salary-bonus) | [blog-tax-thirteen-salary-bonus-gegegj.md](./blog-tax-thirteen-salary-bonus-gegegj.md) |
 | 五险一金基数变了，税后工资会差多少？ | [打开](https://gegegj.com/blog/tax-social-insurance-base) | [blog-tax-social-insurance-base-gegegj.md](./blog-tax-social-insurance-base-gegegj.md) |
 | 一边上班一边接私活，个税会不会被算重了？ | [打开](https://gegegj.com/blog/tax-freelance-labor-on-salary-slip) | [blog-tax-freelance-labor-on-salary-slip-gegegj.md](./blog-tax-freelance-labor-on-salary-slip-gegegj.md) |
+| 在A市上班租房，个税专项扣除能扣吗？工作地和租房地不一致怎么办？ | [打开](https://gegegj.com/blog/tax-rent-deduction-work-city-vs-home) | [blog-tax-rent-deduction-work-city-vs-home-gegegj.md](./blog-tax-rent-deduction-work-city-vs-home-gegegj.md) |
 | 专项附加扣除明明填了，工资条当月为什么还没少扣税？ | [打开](https://gegegj.com/blog/tax-special-deduction-not-on-payslip-yet) | [blog-tax-special-deduction-not-on-payslip-yet-gegegj.md](./blog-tax-special-deduction-not-on-payslip-yet-gegegj.md) |
 
 ### 人民币大写
@@ -84,19 +88,23 @@
 |------|----------------|-------------|
 | 报销单上只有阿拉伯数字、没有大写金额，财务退回怎么补？ | [打开](https://gegegj.com/blog/rmb-reimbursement-only-arabic-digits) | [blog-rmb-reimbursement-only-arabic-digits-gegegj.md](./blog-rmb-reimbursement-only-arabic-digits-gegegj.md) |
 | 合同大写金额「壹佰万」和数字 100 万，少写一位怎么一眼发现？ | [打开](https://gegegj.com/blog/rmb-wan-yi-digit-wrong-one-place) | [blog-rmb-wan-yi-digit-wrong-one-place-gegegj.md](./blog-rmb-wan-yi-digit-wrong-one-place-gegegj.md) |
+| 合同金额带角分，人民币大写写「零伍分」还是「伍分」才对？ | [打开](https://gegegj.com/blog/rmb-jiao-fen-zero-legal-uppercase) | [blog-rmb-jiao-fen-zero-legal-uppercase-gegegj.md](./blog-rmb-jiao-fen-zero-legal-uppercase-gegegj.md) |
 | 合同金额写「80万元」，转人民币大写要先乘一万吗？ | [打开](https://gegegj.com/blog/rmb-contract-uses-wan-yuan-unit) | [blog-rmb-contract-uses-wan-yuan-unit-gegegj.md](./blog-rmb-contract-uses-wan-yuan-unit-gegegj.md) |
 | 合同里小写与大写不一致怎么办？ | [打开](https://gegegj.com/blog/rmb-duplicate-number-check) | [blog-rmb-duplicate-number-check-gegegj.md](./blog-rmb-duplicate-number-check-gegegj.md) |
 | 金额大写里「零」怎么读：中间带零、角分全零的常见写法 | [打开](https://gegegj.com/blog/rmb-corner-cases-zero) | [blog-rmb-corner-cases-zero-gegegj.md](./blog-rmb-corner-cases-zero-gegegj.md) |
 | 全电发票只有小写金额，合同里还要不要手写人民币大写？ | [打开](https://gegegj.com/blog/rmb-full-electric-invoice-uppercase) | [blog-rmb-full-electric-invoice-uppercase-gegegj.md](./blog-rmb-full-electric-invoice-uppercase-gegegj.md) |
+| 增值税发票上大写金额和小写对不上，以哪个为准还能报销吗？ | [打开](https://gegegj.com/blog/rmb-vat-invoice-amount-mismatch-uppercase) | [blog-rmb-vat-invoice-amount-mismatch-uppercase-gegegj.md](./blog-rmb-vat-invoice-amount-mismatch-uppercase-gegegj.md) |
 
 ### 汇率换算
 
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
+| 办签证要的银行存款证明，美元数额怎么从人民币存款换算？ | [打开](https://gegegj.com/blog/exchange-visa-bank-statement-usd-amount) | [blog-exchange-visa-bank-statement-usd-amount-gegegj.md](./blog-exchange-visa-bank-statement-usd-amount-gegegj.md) |
 | 报销用固定汇率怎么换算？手动汇率模式更适合财务口径 | [打开](https://gegegj.com/blog/exchange-reimbursement-rate) | [blog-exchange-reimbursement-rate-gegegj.md](./blog-exchange-reimbursement-rate-gegegj.md) |
 | 出国旅行预算：美元日元港币怎么粗算成人民币 | [打开](https://gegegj.com/blog/exchange-travel-budget-usd-jpy) | [blog-exchange-travel-budget-usd-jpy-gegegj.md](./blog-exchange-travel-budget-usd-jpy-gegegj.md) |
 | 购汇时「现汇卖出价」和新闻里的中间价差一截，正常吗？ | [打开](https://gegegj.com/blog/exchange-bank-buy-sell-vs-middle-rate) | [blog-exchange-bank-buy-sell-vs-middle-rate-gegegj.md](./blog-exchange-bank-buy-sell-vs-middle-rate-gegegj.md) |
 | 海淘页面上是美元标价，信用卡账单却是人民币——怎么粗对账？ | [打开](https://gegegj.com/blog/exchange-haigou-list-vs-card-bill) | [blog-exchange-haigou-list-vs-card-bill-gegegj.md](./blog-exchange-haigou-list-vs-card-bill-gegegj.md) |
+| 境外刷卡消费，汇率按刷卡那天还是入账那天算？ | [打开](https://gegegj.com/blog/exchange-card-settlement-rate-which-day) | [blog-exchange-card-settlement-rate-which-day-gegegj.md](./blog-exchange-card-settlement-rate-which-day-gegegj.md) |
 | 旅游剩一把外币硬币，能按汇率算成大概多少人民币吗？ | [打开](https://gegegj.com/blog/exchange-leftover-coins-not-banknotes) | [blog-exchange-leftover-coins-not-banknotes-gegegj.md](./blog-exchange-leftover-coins-not-banknotes-gegegj.md) |
 | 银行换美元和支付宝汇率差一截，出国前该信哪个？ | [打开](https://gegegj.com/blog/exchange-cash-usd-bill-vs-alipay-rate) | [blog-exchange-cash-usd-bill-vs-alipay-rate-gegegj.md](./blog-exchange-cash-usd-bill-vs-alipay-rate-gegegj.md) |
 
@@ -106,7 +114,9 @@
 |------|----------------|-------------|
 | 2月29日出生，每年过生日该怎么算满周岁？ | [打开](https://gegegj.com/blog/date-feb-29-birthday-age-each-year) | [blog-date-feb-29-birthday-age-each-year-gegegj.md](./blog-date-feb-29-birthday-age-each-year-gegegj.md) |
 | 合同写「签字后30日内付款」，第30天当天算不算最后一天？ | [打开](https://gegegj.com/blog/date-plus-thirty-days-contract) | [blog-date-plus-thirty-days-contract-gegegj.md](./blog-date-plus-thirty-days-contract-gegegj.md) |
+| 合同写「十个工作日内付款」，遇到春节国庆怎么数？ | [打开](https://gegegj.com/blog/date-ten-working-days-holiday) | [blog-date-ten-working-days-holiday-gegegj.md](./blog-date-ten-working-days-holiday-gegegj.md) |
 | 合同写「逾期按日计违约金」，起算那天算不算进天数？ | [打开](https://gegegj.com/blog/date-penalty-count-from-which-day) | [blog-date-penalty-count-from-which-day-gegegj.md](./blog-date-penalty-count-from-which-day-gegegj.md) |
+| 合同写「自签订之日起生效」，算签字当天还是第二天？ | [打开](https://gegegj.com/blog/date-effective-same-day-or-next-day) | [blog-date-effective-same-day-or-next-day-gegegj.md](./blog-date-effective-same-day-or-next-day-gegegj.md) |
 | 日期差算出来和合同「含首尾日」不一致？先定口径再加减 | [打开](https://gegegj.com/blog/date-inclusive-end-date) | [blog-date-inclusive-end-date-gegegj.md](./blog-date-inclusive-end-date-gegegj.md) |
 | 只要工作日天数？先用日历日估算再扣假 | [打开](https://gegegj.com/blog/date-workdays-pointer) | [blog-date-workdays-pointer-gegegj.md](./blog-date-workdays-pointer-gegegj.md) |
 | 租约写「租期一年」，是按 365 天还是从起租日到周年？ | [打开](https://gegegj.com/blog/date-lease-one-year-meaning) | [blog-date-lease-one-year-meaning-gegegj.md](./blog-date-lease-one-year-meaning-gegegj.md) |
@@ -115,10 +125,12 @@
 
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
+| 18岁生日当天能自己签合同吗？还是要等过了生日第二天？ | [打开](https://gegegj.com/blog/age-eighteen-sign-contract-birthday-day) | [blog-age-eighteen-sign-contract-birthday-day-gegegj.md](./blog-age-eighteen-sign-contract-birthday-day-gegegj.md) |
 | 别人说宝宝两岁，到底是周岁、虚岁还是24个月？ | [打开](https://gegegj.com/blog/age-baby-months-vs-zhou-sui) | [blog-age-baby-months-vs-zhou-sui-gegegj.md](./blog-age-baby-months-vs-zhou-sui-gegegj.md) |
 | 入学年龄按「8 月 31 日」还是按报名截止日？ | [打开](https://gegegj.com/blog/age-school-enrollment-deadline) | [blog-age-school-enrollment-deadline-gegegj.md](./blog-age-school-enrollment-deadline-gegegj.md) |
 | 身份证和户口本生日不一致，报名周岁该按哪一个？ | [打开](https://gegegj.com/blog/age-id-birthday-not-match-household) | [blog-age-id-birthday-not-match-household-gegegj.md](./blog-age-id-birthday-not-match-household-gegegj.md) |
 | 投保资料里的年龄与健康指标：BMI 要不要一起填 | [打开](https://gegegj.com/blog/age-insurance-bmi-note) | [blog-age-insurance-bmi-note-gegegj.md](./blog-age-insurance-bmi-note-gegegj.md) |
+| 我是1985年出生，到底哪年退休？网上表格能不能信？ | [打开](https://gegegj.com/blog/age-delayed-retirement-birth-year) | [blog-age-delayed-retirement-birth-year-gegegj.md](./blog-age-delayed-retirement-birth-year-gegegj.md) |
 | 延迟退休消息后，还差几年退休该按生日还是按档案算？ | [打开](https://gegegj.com/blog/age-delayed-retirement-months-rough) | [blog-age-delayed-retirement-months-rough-gegegj.md](./blog-age-delayed-retirement-months-rough-gegegj.md) |
 | 招聘写「须年满18周岁」，生日当天来上班算不算满18岁？ | [打开](https://gegegj.com/blog/age-eighteen-birthday-that-day) | [blog-age-eighteen-birthday-that-day-gegegj.md](./blog-age-eighteen-birthday-that-day-gegegj.md) |
 
@@ -127,7 +139,9 @@
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
 | 日志里的时间戳和界面时间差 8 小时？先看 UTC 再看本地 | [打开](https://gegegj.com/blog/timestamp-log-timezone-pitfalls) | [blog-timestamp-log-timezone-pitfalls-gegegj.md](./blog-timestamp-log-timezone-pitfalls-gegegj.md) |
+| 时间戳到 2038 年真的会乱套吗？和我用网页工具有关吗？ | [打开](https://gegegj.com/blog/timestamp-year-2038-problem-explained) | [blog-timestamp-year-2038-problem-explained-gegegj.md](./blog-timestamp-year-2038-problem-explained-gegegj.md) |
 | 数据库里是空值还是 0，和日志里的 Unix 时间戳怎么分清？ | [打开](https://gegegj.com/blog/timestamp-null-zero-sentinel) | [blog-timestamp-null-zero-sentinel-gegegj.md](./blog-timestamp-null-zero-sentinel-gegegj.md) |
+| 微信聊天记录导出的时间，怎么和手机里看到的不一样？ | [打开](https://gegegj.com/blog/timestamp-wechat-export-vs-screen) | [blog-timestamp-wechat-export-vs-screen-gegegj.md](./blog-timestamp-wechat-export-vs-screen-gegegj.md) |
 | 系统里「创建时间」一串数字是秒还是毫秒？怎么和客服说清楚 | [打开](https://gegegj.com/blog/timestamp-api-contract-ms) | [blog-timestamp-api-contract-ms-gegegj.md](./blog-timestamp-api-contract-ms-gegegj.md) |
 | Excel 里一串四万多是不是时间戳？和 Unix 秒怎么对上号 | [打开](https://gegegj.com/blog/timestamp-excel-serial-number) | [blog-timestamp-excel-serial-number-gegegj.md](./blog-timestamp-excel-serial-number-gegegj.md) |
 | HTTP 响应头里的 Date 是 GMT，怎么和 Unix 时间戳对上？ | [打开](https://gegegj.com/blog/timestamp-http-date-header-to-unix) | [blog-timestamp-http-date-header-to-unix-gegegj.md](./blog-timestamp-http-date-header-to-unix-gegegj.md) |
@@ -140,7 +154,9 @@
 | 发版窗口怎么写进公告：UTC + 北京时间双写模板 | [打开](https://gegegj.com/blog/timezone-release-window-utc) | [blog-timezone-release-window-utc-gegegj.md](./blog-timezone-release-window-utc-gegegj.md) |
 | 机票上到达时间是当地时间还是北京时间？接机怎么算 | [打开](https://gegegj.com/blog/timezone-flight-arrival-local-or-home) | [blog-timezone-flight-arrival-local-or-home-gegegj.md](./blog-timezone-flight-arrival-local-or-home-gegegj.md) |
 | 美股开盘是北京时间几点？夏令树一换又变一小时 | [打开](https://gegegj.com/blog/timezone-us-market-open-beijing-time) | [blog-timezone-us-market-open-beijing-time-gegegj.md](./blog-timezone-us-market-open-beijing-time-gegegj.md) |
+| 悉尼墨尔本现在和北京差几小时？约澳洲客户开会几点合适？ | [打开](https://gegegj.com/blog/timezone-sydney-melbourne-beijing-call) | [blog-timezone-sydney-melbourne-beijing-call-gegegj.md](./blog-timezone-sydney-melbourne-beijing-call-gegegj.md) |
 | 夏令时切换那一周，会议时间为什么像「少了一小时」？ | [打开](https://gegegj.com/blog/timezone-dst-missing-hour-week) | [blog-timezone-dst-missing-hour-week-gegegj.md](./blog-timezone-dst-missing-hour-week-gegegj.md) |
+| 英国夏令时和北京差几小时？约伦敦同事开会几点合适？ | [打开](https://gegegj.com/blog/timezone-uk-summer-beijing-meeting) | [blog-timezone-uk-summer-beijing-meeting-gegegj.md](./blog-timezone-uk-summer-beijing-meeting-gegegj.md) |
 | 远程同事说「明天上午开个会」，我先该问清哪个时区？ | [打开](https://gegegj.com/blog/timezone-remote-which-city-first) | [blog-timezone-remote-which-city-first-gegegj.md](./blog-timezone-remote-which-city-first-gegegj.md) |
 | 中美欧三地开会：怎么选「对大家都不太差」的时间段 | [打开](https://gegegj.com/blog/timezone-meeting-three-hubs) | [blog-timezone-meeting-three-hubs-gegegj.md](./blog-timezone-meeting-three-hubs-gegegj.md) |
 
@@ -149,11 +165,13 @@
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
 | 给孩子算 BMI 能直接用成人「18.5～23.9」那张表吗？ | [打开](https://gegegj.com/blog/bmi-child-not-use-adult-chart) | [blog-bmi-child-not-use-adult-chart-gegegj.md](./blog-bmi-child-not-use-adult-chart-gegegj.md) |
+| 怀孕了还能用普通 BMI 表判断胖瘦吗？ | [打开](https://gegegj.com/blog/bmi-pregnancy-not-use-pre-pregnancy-only) | [blog-bmi-pregnancy-not-use-pre-pregnancy-only-gegegj.md](./blog-bmi-pregnancy-not-use-pre-pregnancy-only-gegegj.md) |
 | 家里体脂秤算的 BMI 和体检单不一样，差一截正常吗？ | [打开](https://gegegj.com/blog/bmi-home-scale-vs-checkup-report) | [blog-bmi-home-scale-vs-checkup-report-gegegj.md](./blog-bmi-home-scale-vs-checkup-report-gegegj.md) |
 | 健身人群 BMI 偏高一定不健康吗？ | [打开](https://gegegj.com/blog/bmi-athlete-note) | [blog-bmi-athlete-note-gegegj.md](./blog-bmi-athlete-note-gegegj.md) |
 | 身高英尺英寸怎么填进 BMI？先统一成厘米与公斤 | [打开](https://gegegj.com/blog/bmi-height-weight-unit) | [blog-bmi-height-weight-unit-gegegj.md](./blog-bmi-height-weight-unit-gegegj.md) |
 | 兄妹体重一样高不一样，BMI能放在一起比吗？ | [打开](https://gegegj.com/blog/bmi-siblings-same-weight-different-height) | [blog-bmi-siblings-same-weight-different-height-gegegj.md](./blog-bmi-siblings-same-weight-different-height-gegegj.md) |
 | BMI 算出来偏瘦，体检医生却说没问题，还要增重吗？ | [打开](https://gegegj.com/blog/bmi-underweight-doctor-said-fine) | [blog-bmi-underweight-doctor-said-fine-gegegj.md](./blog-bmi-underweight-doctor-said-fine-gegegj.md) |
+| BMI 正常但肚子大，算不算胖？腰围要比体重更重要吗？ | [打开](https://gegegj.com/blog/bmi-normal-but-belly-fat-waist) | [blog-bmi-normal-but-belly-fat-waist-gegegj.md](./blog-bmi-normal-but-belly-fat-waist-gegegj.md) |
 
 ### 预产期
 
@@ -161,13 +179,17 @@
 |------|----------------|-------------|
 | 37周就生了算早产吗？预产期计算器还准不准 | [打开](https://gegegj.com/blog/due-date-37-weeks-is-it-preterm) | [blog-due-date-37-weeks-is-it-preterm-gegegj.md](./blog-due-date-37-weeks-is-it-preterm-gegegj.md) |
 | 产检单写孕12周+3，和按末次月经算的差一周，听谁的？ | [打开](https://gegegj.com/blog/due-date-scan-weeks-vs-lmp-week) | [blog-due-date-scan-weeks-vs-lmp-week-gegegj.md](./blog-due-date-scan-weeks-vs-lmp-week-gegegj.md) |
+| 怀双胞胎，预产期计算器算出来的日子准吗？ | [打开](https://gegegj.com/blog/due-date-twins-edd-calculator-same) | [blog-due-date-twins-edd-calculator-same-gegegj.md](./blog-due-date-twins-edd-calculator-same-gegegj.md) |
 | 末次月经只记得大概月份，预产期还能估一个范围吗？ | [打开](https://gegegj.com/blog/due-date-lmp-only-month-remembered) | [blog-due-date-lmp-only-month-remembered-gegegj.md](./blog-due-date-lmp-only-month-remembered-gegegj.md) |
 | 试管移植日算预产期，还能用末次月经那套吗？ | [打开](https://gegegj.com/blog/due-date-ivf-transfer-day-not-lmp) | [blog-due-date-ivf-transfer-day-not-lmp-gegegj.md](./blog-due-date-ivf-transfer-day-not-lmp-gegegj.md) |
+| 孕晚期肚子一阵阵发紧，离预产期还有三周，正常吗？ | [打开](https://gegegj.com/blog/due-date-braxton-hicks-how-often) | [blog-due-date-braxton-hicks-how-often-gegegj.md](./blog-due-date-braxton-hicks-how-often-gegegj.md) |
 
 ### 单位换算
 
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
+| 电费单上的「度」到底是什么单位？和焦耳怎么换算？ | [打开](https://gegegj.com/blog/unit-kwh-degree-electricity-bill) | [blog-unit-kwh-degree-electricity-bill-gegegj.md](./blog-unit-kwh-degree-electricity-bill-gegegj.md) |
+| 美式食谱「一杯面粉」到底是多少克？ | [打开](https://gegegj.com/blog/unit-recipe-cup-to-grams-flour) | [blog-unit-recipe-cup-to-grams-flour-gegegj.md](./blog-unit-recipe-cup-to-grams-flour-gegegj.md) |
 | 奶粉罐上写 8 fl oz，到底是多少毫升？ | [打开](https://gegegj.com/blog/unit-baby-formula-fl-oz-to-ml) | [blog-unit-baby-formula-fl-oz-to-ml-gegegj.md](./blog-unit-baby-formula-fl-oz-to-ml-gegegj.md) |
 | 跑步配速：每公里与每英里怎么互算 | [打开](https://gegegj.com/blog/unit-running-pace-km-mile) | [blog-unit-running-pace-km-mile-gegegj.md](./blog-unit-running-pace-km-mile-gegegj.md) |
 | 体脂秤显示 150，是磅还是斤？换公斤怎么心算 | [打开](https://gegegj.com/blog/unit-pound-vs-jin-body-scale) | [blog-unit-pound-vs-jin-body-scale-gegegj.md](./blog-unit-pound-vs-jin-body-scale-gegegj.md) |
@@ -180,6 +202,8 @@
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
 | 孩子背九九表总跳行，有没有按算式阶梯对照的法子？ | [打开](https://gegegj.com/blog/multiplication-table-skip-row-check) | [blog-multiplication-table-skip-row-check-gegegj.md](./blog-multiplication-table-skip-row-check-gegegj.md) |
+| 孩子乘法口诀总错「7」这一行，有没有系统的练法？ | [打开](https://gegegj.com/blog/multiplication-wrong-row-pattern-fix) | [blog-multiplication-wrong-row-pattern-fix-gegegj.md](./blog-multiplication-wrong-row-pattern-fix-gegegj.md) |
+| 孩子除法总算错，能用乘法口诀反着验算吗？ | [打开](https://gegegj.com/blog/multiplication-use-table-to-check-division) | [blog-multiplication-use-table-to-check-division-gegegj.md](./blog-multiplication-use-table-to-check-division-gegegj.md) |
 | 孩子老把 7×8 和 6×8 记混，九九表里有没有对照法？ | [打开](https://gegegj.com/blog/multiplication-7x8-56-confused-with-6x8) | [blog-multiplication-7x8-56-confused-with-6x8-gegegj.md](./blog-multiplication-7x8-56-confused-with-6x8-gegegj.md) |
 | 九九表背挺溜了，做除法还是慢，正常吗？ | [打开](https://gegegj.com/blog/multiplication-fluent-but-division-slow) | [blog-multiplication-fluent-but-division-slow-gegegj.md](./blog-multiplication-fluent-but-division-slow-gegegj.md) |
 | 小九九背到9×9就够了？大九九要背到几×几 | [打开](https://gegegj.com/blog/multiplication-big-nine-vs-small-nine) | [blog-multiplication-big-nine-vs-small-nine-gegegj.md](./blog-multiplication-big-nine-vs-small-nine-gegegj.md) |
@@ -188,10 +212,12 @@
 
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
+| 店里贴的收款码是静态还是动态？换海报还能扫吗？ | [打开](https://gegegj.com/blog/qrcode-dynamic-merchant-code-vs-static) | [blog-qrcode-dynamic-merchant-code-vs-static-gegegj.md](./blog-qrcode-dynamic-merchant-code-vs-static-gegegj.md) |
 | 二维码能扫出来，点开却说链接过期，是码坏了吗？ | [打开](https://gegegj.com/blog/qrcode-scans-but-link-expired) | [blog-qrcode-scans-but-link-expired-gegegj.md](./blog-qrcode-scans-but-link-expired-gegegj.md) |
 | 二维码扫不出来，是印太小、太远还是光线问题？ | [打开](https://gegegj.com/blog/qrcode-scan-fail-blur-size-light) | [blog-qrcode-scan-fail-blur-size-light-gegegj.md](./blog-qrcode-scan-fail-blur-size-light-gegegj.md) |
 | 二维码中间想放 logo，留白要留多大才扫得出来？ | [打开](https://gegegj.com/blog/qrcode-logo-center-quiet-zone) | [blog-qrcode-logo-center-quiet-zone-gegegj.md](./blog-qrcode-logo-center-quiet-zone-gegegj.md) |
 | 活动链接老在变，已经印出去的二维码要不要全部重印？ | [打开](https://gegegj.com/blog/qrcode-static-poster-vs-changing-link) | [blog-qrcode-static-poster-vs-changing-link-gegegj.md](./blog-qrcode-static-poster-vs-changing-link-gegegj.md) |
+| 收款码换成彩色或加了 logo，顾客还能扫吗？ | [打开](https://gegegj.com/blog/qrcode-collection-code-style-still-scan) | [blog-qrcode-collection-code-style-still-scan-gegegj.md](./blog-qrcode-collection-code-style-still-scan-gegegj.md) |
 | 印刷物料上的二维码：留白与分辨率怎么留才稳 | [打开](https://gegegj.com/blog/qrcode-print-bleed-safe-area) | [blog-qrcode-print-bleed-safe-area-gegegj.md](./blog-qrcode-print-bleed-safe-area-gegegj.md) |
 | Wi-Fi 与电子名片二维码：内容越短越容易扫 | [打开](https://gegegj.com/blog/qrcode-wifi-and-vcard) | [blog-qrcode-wifi-and-vcard-gegegj.md](./blog-qrcode-wifi-and-vcard-gegegj.md) |
 
@@ -199,20 +225,24 @@
 
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
+| 发邮件附图，压缩质量 85 和 70 差很多吗？一般设多少？ | [打开](https://gegegj.com/blog/image-compress-quality-85-or-70-email) | [blog-image-compress-quality-85-or-70-email-gegegj.md](./blog-image-compress-quality-85-or-70-email-gegegj.md) |
 | 附件超限与商品图列表慢：先压缩图片再上传 | [打开](https://gegegj.com/blog/image-compress-attachment-and-listing) | [blog-image-compress-attachment-and-listing-gegegj.md](./blog-image-compress-attachment-and-listing-gegegj.md) |
 | 公众号插图总提示超过 2MB，横图竖图压缩有什么差别？ | [打开](https://gegegj.com/blog/image-compress-wechat-2mb-limit) | [blog-image-compress-wechat-2mb-limit-gegegj.md](./blog-image-compress-wechat-2mb-limit-gegegj.md) |
 | 手机竖拍照片上传后横过来了，压缩前要先旋转吗？ | [打开](https://gegegj.com/blog/image-compress-exif-orientation-wrong-way) | [blog-image-compress-exif-orientation-wrong-way-gegegj.md](./blog-image-compress-exif-orientation-wrong-way-gegegj.md) |
 | 有的图在线压缩后反而更大，是工具坏了吗？ | [打开](https://gegegj.com/blog/image-compress-file-size-increased-after) | [blog-image-compress-file-size-increased-after-gegegj.md](./blog-image-compress-file-size-increased-after-gegegj.md) |
+| iPhone 照片是 HEIC，发邮件对方打不开怎么办？ | [打开](https://gegegj.com/blog/image-compress-heic-to-jpg-email) | [blog-image-compress-heic-to-jpg-email-gegegj.md](./blog-image-compress-heic-to-jpg-email-gegegj.md) |
 | PNG 透明图在线压缩后，背景怎么变黑了？ | [打开](https://gegegj.com/blog/image-compress-png-transparent-background-black) | [blog-image-compress-png-transparent-background-black-gegegj.md](./blog-image-compress-png-transparent-background-black-gegegj.md) |
 
 ### JSON 格式化
 
 | 标题 | 在网站上阅读 | GitHub 原文 |
 |------|----------------|-------------|
+| 从 Python 复制过来的 JSON 报错，单引号是不是不行？ | [打开](https://gegegj.com/blog/json-single-quotes-python-paste-fix) | [blog-json-single-quotes-python-paste-fix-gegegj.md](./blog-json-single-quotes-python-paste-fix-gegegj.md) |
 | 从超大日志里截取一段 JSON：先截断再格式化 | [打开](https://gegegj.com/blog/json-log-snippet-workflow) | [blog-json-log-snippet-workflow-gegegj.md](./blog-json-log-snippet-workflow-gegegj.md) |
 | 合并冲突后的 JSON 怎么快速检查语法？ | [打开](https://gegegj.com/blog/json-config-merge-conflict-tips) | [blog-json-config-merge-conflict-tips-gegegj.md](./blog-json-config-merge-conflict-tips-gegegj.md) |
 | 浏览器控制台复制的对象，粘贴进 JSON 格式化为什么报错？ | [打开](https://gegegj.com/blog/json-console-copy-object-invalid) | [blog-json-console-copy-object-invalid-gegegj.md](./blog-json-console-copy-object-invalid-gegegj.md) |
 | 配置文件里一行 JSON 启动就报错，怎么先本地验语法？ | [打开](https://gegegj.com/blog/json-env-one-line-config-validate) | [blog-json-env-one-line-config-validate-gegegj.md](./blog-json-env-one-line-config-validate-gegegj.md) |
+| JSON 里中文全变成 \u4e2d\u6587，怎么在编辑器里直接看到汉字？ | [打开](https://gegegj.com/blog/json-unicode-escape-chinese-display) | [blog-json-unicode-escape-chinese-display-gegegj.md](./blog-json-unicode-escape-chinese-display-gegegj.md) |
 | JSON 最后多了一个逗号，为什么在线格式化直接报错？ | [打开](https://gegegj.com/blog/json-trailing-comma-backend-reject) | [blog-json-trailing-comma-backend-reject-gegegj.md](./blog-json-trailing-comma-backend-reject-gegegj.md) |
 | JSON里能写 NaN 吗？为什么后端说不是合法 JSON | [打开](https://gegegj.com/blog/json-nan-infinity-not-allowed) | [blog-json-nan-infinity-not-allowed-gegegj.md](./blog-json-nan-infinity-not-allowed-gegegj.md) |
 
@@ -223,6 +253,8 @@
 | 翻译报价「每千字」，中文是按汉字还是含标点字符？ | [打开](https://gegegj.com/blog/word-count-translation-per-thousand-chinese) | [blog-word-count-translation-per-thousand-chinese-gegegj.md](./blog-word-count-translation-per-thousand-chinese-gegegj.md) |
 | 公众号稿费写「千字 50 元」，标点算不算那一千字？ | [打开](https://gegegj.com/blog/word-count-wechat-pay-per-thousand) | [blog-word-count-wechat-pay-per-thousand-gegegj.md](./blog-word-count-wechat-pay-per-thousand-gegegj.md) |
 | 论文中英文混排，字数统计空格和英文单词怎么算？ | [打开](https://gegegj.com/blog/word-count-mixed-chinese-english-spaces) | [blog-word-count-mixed-chinese-english-spaces-gegegj.md](./blog-word-count-mixed-chinese-english-spaces-gegegj.md) |
+| 硕士论文字数，脚注和尾注到底算不算进去？ | [打开](https://gegegj.com/blog/word-count-footnotes-and-endnotes) | [blog-word-count-footnotes-and-endnotes-gegegj.md](./blog-word-count-footnotes-and-endnotes-gegegj.md) |
+| 学校说论文字数含摘要，参考文献算不算？我该怎么数？ | [打开](https://gegegj.com/blog/word-count-title-abstract-included) | [blog-word-count-title-abstract-included-gegegj.md](./blog-word-count-title-abstract-included-gegegj.md) |
 | 征文写「不超过三万字」，标点符号算不算进去？ | [打开](https://gegegj.com/blog/word-count-punctuation-in-contest-limit) | [blog-word-count-punctuation-in-contest-limit-gegegj.md](./blog-word-count-punctuation-in-contest-limit-gegegj.md) |
 
 
